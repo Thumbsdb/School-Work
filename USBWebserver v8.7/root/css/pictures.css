@@ -1,0 +1,32 @@
+@import "stylesheet.css";
+
+main {
+	margin:40px;
+}
+.images > span {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	gap: 800px;
+}
+
+.images > span > img {
+	width: 50%; 
+	height: 50%;
+}
+
+.about {
+	flex-direction: column;
+}
+
+.topleft {
+	position: absolute;
+	top: 0%;
+	left: 0%;
+}
+
+.bottomright {
+	position: absolute;
+	bottom: 0%;
+	right: 0%;
+}
