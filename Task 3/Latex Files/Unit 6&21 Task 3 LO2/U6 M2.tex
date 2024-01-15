@@ -1,0 +1,192 @@
+\documentclass{article}
+
+% Language setting
+% Replace `english' with e.g. `spanish' to change the document language
+\usepackage[english]{babel}
+
+% Set page size and margins
+% Replace `letterpaper' with `a4paper' for UK/EU standard size
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=20mm,
+ top=20mm,
+ }
+
+
+\title{Task 3 U6 M2}
+\author{Chris}
+
+\begin{document}
+\maketitle
+
+
+\section{Proposed alternative to website}
+\begin{itemize}
+    \item Physical onsite shop
+    \item Mobile App
+    \item Mail Order
+    \item Facebook marketplace
+\end{itemize}
+
+\pagebreak
+\section{Economic Impact}
+
+\subsection{Physical Shop}
+There are a number of different aspects that come together to describe how each solution will have an economic impact.
+
+One issue that will affect every potential solution is advertising. The client will need different types of advertising, and none of them will be cheap.
+
+For the physical onsite shop, possibly the largest impact will be the purchase or renting of a building or shop. The initial outlay from a mortgage could be a blocker to even considering a shop while renting will leave you at the mercy of the landlord who will likely increase the rent on a regular basis. Renting will mean that the cost of the building is sunk, as in it is not an asset. The cost of maintaining a building could spiral if any major defects are found. Staff will need to be employed, this will not only incur the cost of wages, but also insurance and training.
+
+
+Security will need to be considered so likely a 3rd party security firm would need to be hired.
+Stock will need to be purchased for the shop, but seeing as this client is operating as a travel agent not too much stock is necessary.
+
+
+\subsection{Mobile App}
+A mobile app will have a very different set of economic issues.
+
+
+The most costly issue would be the need to hire a contractor or a business to develop the app. There may be off the shelf solutions you could use to make it cheaper but they will not have as much impact.
+The app will need to store data in the cloud or on a hosted database, which can be costly.
+It will also be necessary to maintain the app for when new smart phones are released and to fix any security issues.
+If the app can take payments for bookings then an online vendor to process payments will be needed. They are going to take a percentage of all payments, which can add up.
+
+\subsection{Website}
+Alternatively a dedicated website will operate in mostly the same way as a mobile app, and in fact the back end data storage will be the same meaning it's possible to have a dedicated website and an app.
+
+
+\subsection{Mail Order}
+
+Mail order is quite a cheap way to start a business such as our clients, though it is seen as an older means of doing business.
+The main costs involved would be the printing of brochures and mailing costs of getting those brochures sent to potential customers.
+There will be an admin overhead in dealing with mailed in orders, and with it being a very manual process it will be slow and likely expensive. You may need to hire people to handle the extra admin.
+
+
+\subsection{Facebook Marketplace}
+
+Facebook Marketplace is likely the cheapest means of doing business, but it is generally seen as not very professional and would likely put off people
+It would seem likely that the client would need to register with Facebook as a business and would be charged per posting. This could add up quickly.
+Someone will need to answer questions from potential customers and deal with the usual socials. It may be necessary to hire someone on a full time basis.
+
+\pagebreak
+\section{Operation Impact}
+\subsection{Physical Shop}
+A physical shop can incur any number of new processes that need to be created and reviewed. 
+
+
+Processes like setting up work schedules for anyone who will work in the shop. 
+How to deal with money coming in and going out of a shop.
+Setting up rotas for cleaners to come in.
+All of these and many more will need to be drawn up and regularly reviewed in house by the business owners
+
+
+\subsection{Mobile App}
+A mobile app will have a number of ongoing processes.
+
+The app will need to be scanned regularly for any security vulnerabilities, as many open source packages which are commonly used in development will be regularly updated with security fixes and your app will need to be updated with the latest fixes.
+The app will also need to be updated semi-regularly to keep it looking modern.
+Likely a process will need to be created to deal with customer queries, at the very least queries from people on the various app stores will have to be responded to.
+Staff will need to be trained in how to run security scans on the app and how to fix any security issues that come up.
+This could also impact marketing and advertising teams if a new version of the app can not be delivered when they expect it due to having to fix app issues.
+
+
+\subsection{Website}
+
+A dedicated website will need to be updated, again to ensure that the latest security patches are applied.
+Back-end services will need to be backed up in case of a disaster such as being hacked.
+DNS name and hosting fees will need to be paid and certificates will need to be updated.
+Training on how to deal with disaster recovery will need to be put in place.
+If there is an operations team who look after the website then they will be impacted by any outages as they will have to fix it immediately, especially if they provide 24 hour support.
+
+
+\subsection{Mail Order}
+The mail order solution is essentially one huge process.
+
+Dealing with paper orders coming in
+Printing and mailing brochures and catalogues.
+Entering orders in to your records.
+Sourcing and sending out orders to customers.
+These are just the process around keeping the business running, many of the processes from other sections will also be applicable here
+
+
+\subsection{Facebook Marketplace}
+Facebook Marketplace will also have processes much like mail order.
+
+The main difference will be processes will need to be setup around dealing with Facebook and Marketplace posts.
+Training will need to be given on how to operate a business on Facebook
+    
+
+
+\pagebreak
+\section{Technological Requirements}
+A physical shop will have more basic technological issues than many of the other solutions.
+The most obvious technological aspect will be a booking system which has either a terminal in the shop or a PC / laptop that connects to the booking system and allows staff members to look up details of trips and what dates are available.
+More mundane technological issues will include:
+    \begin{itemize}
+    \item Physical security such as CCTV and shutters
+    \item Possibly WIFI for customers
+    \item IT security for shop laptops, etc
+\end{itemize}
+
+
+There are many technological requirements that will affect a mobile app.
+
+The first one is what frameworks are available to use on the difference mobile platforms, Android and IPhone. As Android is developed using Java and Macs use XCode and Swift, you are going to need developers who are versed in all these technologies as a starting point, or be prepared to pay an external company to develop and look after the apps.
+
+
+Hosting the database, whether that is in the cloud, which means paying for a looking after S3 buckets in AWS or self hosting a server, both of these options will involve understanding how to setup both of these infrastructures and how to maintain them. Where ever the data is stored, the data will need to have a solid backup regime, which includes off site backups, to help recover the site in the event of a disaster or a fatal hacking attempt.
+
+ Websites will have many of the same requirements, except that a website can be developed with smart phones in mind by using media tags. This will mean that the developers who create the website will either need to learn to use a framework which can do much of that for you, such as Bootstrap, or they need to learn more advanced CSS techniques. 
+ 
+The website will need to be tested on many different laptops, browsers, tables, smart phones and know how to deal with search engines scraping your site.
+
+To make the most of site like Google searching your site you will want to setup metadata that external sites can read to figure out what is on your site, which should help your search rankings on search sites. 
+
+As Mail Order is quite a manual and old means of business there will not be many technological requirements beyond recording orders and passing the orders through a lifecycle of being added to a backend system and updating the order until it is sent out.
+
+While Facebook Marketplace is in of itself a technological requirement, it also does not have a lot of complexity beyond accessing the site, recording orders and possibly any advertising.
+
+
+\pagebreak
+\section{Legal Issues}
+Every proposed solution is going to have to be concerned with Data Protection and Privacy, and more specifically General Data Protection Regulations(GDPR).
+The project will be developed in the UK or the EU, and customer data which is stored and could be used to personally identify the customer needs to be stored in a way that puts access restrictions around it,. These details can not be passed on to 3rd party companies without the customers express permission. There are also Freedom of Information regulations which means a company has to be able, on request, to fully delete a customer's details and possibly give a customer all the details the company stores about them
+
+A physical online shop is going to have very different legal obligations as compared to most of the other potential solutions. 
+The most pressing issue will be employment law and Human Resources. The staff who operate the shop will be the greatest issue in that the hiring, firing and every day environment will have to comply with employment law.
+
+The mobile app solution and the website solution will have to deal with Copyright. The UK Copyright is automatic which means the company automatically owns the copyright on the app in law and means only they can distribute copies of the solution. They would have to pay a lawyer to defend that copyright in a court if needs be.
+The mobile app or website will need to deal with accessibility due to the Equality Act. This means the developer will have a legal duty to ensure that disabled people can use the app or website.
+Both the app and website will have a legal obligation to keep themselves secure. This entails keeping their open source dependencies up to date, locking down all access to any backend service with firewalls etc and having a penetration test ran on themselves to try to find any weakness 
+If the app or website takes payments then it must comply with Payments Payment Card Industry Data Security Standard. This will define how they store and use the customer's payment details.
+
+Developers may need to be aware of software licensing issues if they use any 3rd party libraries or images as if they break the licenses of anything they use then they may be leaving themselves open to legal action.
+
+Mail Order and Facebook Marketplace solutions may also need to be aware of employment law and depending on what advertising they produce may also need to be careful around copyright. 
+
+\pagebreak
+\section{Scheduling and resources}
+Once all the requirements and dependencies have been gathered then it is possible to start to build a timeline of what will be developed and when. Along with this it is possible to determine what resources will be necessary.
+
+The process starts by defining a study phase. During this process the feasibility study is broken down in the phases. A phase should be a defined as a singular feature that can be delivered to the customer. Doing it this way will mean that we are following an Agile-like development process where the customer can see what is being delivered as development continues.
+The breakdown should take in to consideration the gathered requirements, any data gathering and reporting.
+
+Next we should define the set of tasks and activities that will be needed to deliver a fully functional product. This should include not only the development tasks but also market research, technical requirements, feasibility requirements and financial viability.
+
+Next an estimation of the time need to complete each task should be done. There are a number of ways of doing this. You can 
+\begin{itemize}
+\item  Use your own heuristics and t-shirt size them, e.g. small, medium, large, etc.
+\item Look at similar historic projects and base your estimates on those
+\item Hire or use an expert in the field to estimate the time each phase will take
+\item Base the time on the perceived complexity of each phase
+\end{itemize}
+
+
+Finally with everything else in place you should create a Gantt chart. This is a chart that will allow you to define the dependencies between each task. Doing this will let you see which tasks can be done in parallel i.e. more than once person can work on them at the same time. If you then look at the dependency chain of tasks and work out which one is the longest i.e. takes the most time, then you can add the times of all the tasks together and get an estimate of how long the development will take. This also allows you to go back to the client determine if anything can be taken out to try and hit any hard date targets they may have.
+
+
+
+\end{document}

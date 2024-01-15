@@ -1,0 +1,160 @@
+\documentclass{article}
+
+% Language setting
+% Replace `english' with e.g. `spanish' to change the document language
+\usepackage[english]{babel}
+
+% Set page size and margins
+% Replace `letterpaper' with `a4paper' for UK/EU standard size
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=20mm,
+ top=20mm,
+ }
+
+
+\title{Task 3 U6\&21 D1}
+\author{Chris}
+
+\begin{document}
+\maketitle
+
+\section{Justification for our design}
+We are going be using the revised design to justify the design decision we made.
+\\
+\\
+During this document we will reference all the new requirement IDs as we describe and work through all the design decisions. They will be referenced in the format [req x] where x is the latest requirement ID.
+\\
+\section{Homepage}
+
+The homepage will include interactive elements [req 2] which will promote the client's space travel business. By doing this by and including pictures with text flowing around them we are explaining why people should travel with them. This should increase their market share [req 1] as more people are able to see what the business is doing and will want to travel in to space. It will also create new marketing opportunities as well by showing off their business.
+\\
+\\
+The homepage will also include a nav bar [req 4,5] with links to other pages on the site. It will also include a footer bar with links to other pages which will help with the ease of access for customers and will contain any necessary legal documents. This will mean a user can easily navigate between different pages on the site. 
+\\
+\\
+ There was an explicit requirement from the client that whenever a user views the homepage, if they select one of the pictures on the homepage of a specific place to travel it will take them to the search page where the site will automatically fill out that search query with the destination that they saw in the homepage [req 7,3]. This has been implemented for customers ease of use and to make it quicker and easier for users to be able to book sites. This is good for the clients as it means they will be more likely engage customers, but the technical difficulty in doing this here means that there's more coupling between the UI elements, which makes future maintenance harder.
+\\
+\\
+
+\section{About Us}
+
+The About Us Page will have all our contact information laid out in a simple columns so that that it we will easily be able to be contacted by our customers [req 8]. It will also include legal documents and a copyrights trademarks section[req 11] and it also explain our ethos [req 10] and why we want to go to space. We do this as it is cost effective and also for any customer that has issues, they will easily be able to contact the client, meaning that they will not have to waste resources on trying to contact the customers due to administration issues.
+\\
+\\
+The About Page will show the client's privacy policy and their security policy, which is necessary due to legal requirements [req 9] and also so that the customers know that the client is handling their data correctly. This will also demonstrate that the client is not misusing their data. If the customers have any issues with how we treat their data they can easily contact us through the About us page. This will however mean that we need to deal with GDPR when dealing with personally identify-able data. If we do not comply with those regulations then the client may be taken to court.
+\\
+\\
+We will also be adding in the ability for the clients to be able to edit and change the About Us page themselves [Req 12]. This is necessary because otherwise this page will be static and un-engaging in the long term as the data will never update. Even though there is no real-time information in this page, it will still need to be kept up to date by the client. This functionality will need to be handed over to the client and they will need to be given training to be able to use and understand this ability, this will be an initial cost we will have to take on.
+\\
+\\
+
+\section{Bookings}
+
+The bookings page, when opened will present the customer with a red dot showing bookable journeys[req 16]. Once the customer books a journey, the website will contact the backend booking system over a REST API and confirm the journey [req 17] the back end will be developed using MySQL [req 14]. The booking is page will have a confirmation page when a user is booking a journey [req 13].
+\\
+\\
+Having the available journeys immediately presented to the customer [req 15] makes it easier for customers to access the information they want to find. It will improve communication with the customer by presenting what available dates the customer can book. This will be more cost effective than just showing a continuous list of dates.
+\\
+\\
+
+\section{Login}
+The login page will be protected with a username and password which will resolve any privacy and security issues [req 18]. This will be stored in a my MySQL database. The password will stored securely by hashing and salting it. This will make storage of the password a lot more secure, but it will add extra complexity to the login process and that itself will have it's own privacy and security issues. After logging in with an admin account the user will be shown all the customer orders [req 19]. This could be a big security risk because if the admin password gets leaked anybody will be able to edit or remove any journey.
+\\
+\\
+At the login page you will be able to sign up for a new account [req 20]. This improves the ease of access for the customers and it also means there is greater engagement with the customers, so they are more likely to book a journey.
+\\
+\\
+After logging in for the first time as a customer, the site will ask for your billing address and bank details [req 22]. This improves the communication with the customer as when they are going to book a journey they will not need to fill out these details. The one disadvantage is that this may annoy some users. These customer may not want to immediately put in their personal details and that could mean that may just leave the site.
+\\
+\\
+[req 23] If it is not the first time a customer has logged int then on login they will be taken to the home page this is so that the client will have more marketing opportunities with these customers.
+\\
+\\
+\section{Account Management Page}
+
+The account management page will be accessed through a cog on the nav bar [req 24]. This page will be for our users to update their billing address, bank details, username and password [req 26]. This will come with its own security and privacy risk, if for example, a user leaves themselves logged in on a public device. This does have a potential for customer concerns as the customer does not know who monitors this data and who has access to it. They may also not be aware if data is being sold on, if they are not aware of the client's privacy policy.
+\\
+\\
+The account management page will show a list of users booked journeys [req 25]. This will help to ease the customer's access to their own information so they can confirm what journeys they have booked and how many people are booked in those one journeys. This will give customer a sense of security about their bookings.
+\\
+\\
+It is also possible to delete their account on this page [req 27]. This is in line with GDPR regulations. A user account can also be created here, as a convenience [req 28].
+\\
+\\
+
+\section{Pictures Of Us}
+
+The main purpose of the Pictures of Us page will be to demonstrate who are as a company, who our members are and to give visual demonstrations about why we want to go in a space. It will also show the engineering involved in getting into space and how we do this in an ethical manner.
+\\
+\\
+The graphical layout of this page will consist of a set of pictures that rotate one after each other [req 29]. This will give the user a better user interface experience although it will be quite basic. The UI code to achieve this will have to execute in the browser. This is very standard UI pattern but it is more complicated than just showing static images on a website so we'll take some time to develop.
+\\
+\\
+The clients who will be looking after this page will be able to upload and administer the pictures on this page by themselves. Again this is harder to develop in the first place but will mean that the customer will be happier as they will be able to update and keep the pictures to more recent ones. This will also create a better experience for customers as they will not see out of date pictures. The client will need to be trained in how to administer this page.
+\\
+\\
+
+\section{Media}
+
+All pages will container a mixture of Media including text and a mention of some videos [req 31]. This makes a site more modern and flexible so that it can be re-styled to whatever the client wants it to be. This will make the site more eye catching and engaging to the customers so that they may book a journey with our client. 
+The downside to that is that the client will have to generate all media by themselves. This will be more taxing on our client and cost more. There may also be copyright issues depending where they source their media from.
+\\
+\\
+\section{General Site}
+
+There are a couple more general points to take into consideration. The first one being that all the pages must have a consistent layout and they must include the 10 usability principles [req 32]. This will mean that again the site will look more consistent and all the data flows and UX paths will be very familiar to customers. Elements like expecting to have a hamburger menu on the website which drops down into a menu ,the layouts of columns, and iconography will not confuse customers. The down side of this is that the website may not stand out compared to similar booking websites.
+\\
+\\
+A further general point is that the site must be responsive on a range of popular devices [req 33, 41]. This is an expensive endeavour as it means quite a lot more work needs to go in to the front end. More planning ahead of time must be done to rearrange each page possibly on every device. Not only are there extra development costs but there are a lot more testing costs as the website needs to be tested on many old and new popular devices, all in different form factors such as landscape and portrait. The pay off to this will be that the site will be a lot more accessible to a wider range of people and thus may encourage many more people to book at the site.
+\\
+\\
+
+\section{Navigation bar}
+
+The website will include a navigation bar this is so that it will make it easy for the customer to move between different pages [req 34, 42] so that they will see more of the clients products. It will have a consistent look and feel to each page and it was also function as a site map.
+\\
+\\
+
+The advantages of having a navigation bar is at it makes it easier for the customer to navigate the client website. The disadvantage of having a navigation bar is that there is more upfront cost more and development time to make a navigation bar because it has to be consistent between each website. It also takes up valuable real estate on each page.
+ \\
+\\
+
+\section{Technical Specification}
+
+
+The site will be built using HTML CSS and JavaScript [req 35]. Using HTML makes the core of the website a very basic website which is easy to style with CSS. JavaScript makes it very functional, JavaScript frameworks are also available to help development. JavaScript used lightly can help with customer experience as the pages will load quicker and this also means that there is less load and cost on the client's servers.
+\\
+\\
+The downside of this as a JavaScript is that it's if it's not maintained it can also become nonfunctional and hard to make changes, making the website age badly.
+\\
+\\
+The site will have a database. This database will be a MySQL database that will be connected by PHP [req 36]. MySQL is a very well-known and well used tool but is prone to SQL injections like any other SQL database.  This is where a hacker can gain access to information they are not allowed to, for example the customer's banking and personal address. To stop this the developers have to be very careful and know how to write code that can specifically stop it. Modern PHP also has security issues that developers need to be aware of, though PHP is much better in this regard than it used to be.
+\\
+\\
+
+The website client will also need to be aware of SEO or what's known as Site Engineering Optimization [req 38]. This means that the website will have to add in metadata that Google can read. Google can use that metadata to help rank the site higher than other sites. The reason that the client will want to do this is because there are many other websites that do the same thing, meaning that they are in competition with each other to be seen at the top of a Google Search list. As well as that there is also embedded interactions with social media sites where metadata about what the site offers and the exact journeys that can be booked can be given to social media sites, and Google. These sites will try to understand the data on our site without having to log into it and then they can display those journeys within their own sites meaning that we reach a far larger audience.
+\\
+\\
+
+The website will have to consider browser compatibility [req 39]. This means that no matter what browser or device they are on the customer will be able to see the exact same website. This can be very expensive because it takes more time to do this. Doing this will mean however that there are more people who are able to access your website.
+\\
+\\
+
+The website has to consider database security [req 43]. This will be done by having a backup and restore system. The site will have a 3-2-1 backup setup where they will keep three copies of your data stored at several places and one stored at an offside location. The database also has to be up to date so that no new malware attacks can hurt the clients business. They also need to test their database restore system to make sure the restore will work as intended and not have have the same situation as Pixar did when they were making Toy Story 2. The major disadvantage to all of this is cost. It will cost a lot of money to stop potential attacks, but if the customer does not do it then it could literally cost them their whole business.
+\\
+\\
+
+The website will have to keep users logged in when they leave the site [req 44]. This will be done through session cookies. This means that the customer has a better experience on the site so that they do not constantly have to keep logging in if they want to check their bookings or cancel bookings. This however comes with the major disadvantages of a security risk and privacy risk. If somebody can grab those cookies they can imitate being that person and spend all their money and grab their credit card details so this feature needs to be tested well.
+\\
+\\
+
+The customer responded with another consideration at a later date after looking at the initial design document. They wanted to allow multiple people to be able to book as part of the same journey [req 45]. This means that one booking can have multiple people on that one journey. This makes it easier for the customer to book families or friends on the same journey and not have the book multiple journeys, multiple ships and multiple trips. This comes with a disadvantage of a financial cost because it would mean a lot of reworking to the site code.
+
+This is quite a big change to the design that the customer had not anticipated until we showed them the designs. The customer had not been able to see the issue until we walked them through everything. Thankfully we were able to incorporate our changes during the design phase, which is a lot cheaper than it would have been if we'd actually designed the site and written it and then we discovered that they were missing this functionality
+\\
+\\
+
+\end{document}

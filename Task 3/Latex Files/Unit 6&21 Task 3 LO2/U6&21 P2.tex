@@ -1,0 +1,246 @@
+\documentclass{article}
+
+% Language setting
+% Replace `english' with e.g. `spanish' to change the document language
+
+
+% Set page size and margins
+% Replace `letterpaper' with `a4paper' for UK/EU standard size
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=20mm,
+ top=20mm,
+ }
+  \usepackage{ifthen}
+  \usepackage{array}
+     \setlength{\extrarowheight}{2pt}
+    \newcounter{rowcount}
+%Packages
+%Coloums
+
+\usepackage{multicol}
+\usepackage{tabularx}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\usepackage{titlesec}
+
+\title{Software Requirements Specification(SRS)}
+\author{The Great UNKNOWN}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+
+\section{Company Background}
+The client I have chosen for BMC IT solutions to work with is The Great UNKNOWN. The Great UNKNOWN is a company who are dedicated to exploring space and selling trips to people who looking for unique and exciting adventures. All of the staff who are employed by The Great UNKNOWN are all PhD graduates in rocket science, engineering and maths. Their combined knowledge in space travel will allow us to do more research and development which will lead to improvements in our space projects. We hope that this knowledge will lead to advancements that will bring a better brighter future for everyone.
+
+\section{Purpose of the website}
+The purpose of the website is to capture people's imagination and to make them curious about space, just like we are, and possibly one day turn them into a space scientists.
+
+The company want to show people that there is a lot to space that we don’t currently know about. Getting people on the journey into space will show them how limitless it is. To that end the website will allow customers to view and book a flight from Earth to the Moon. The booking system will allow customers to see what flights are available and how to book them. Once booked customers will be able to login back in to the website and view and amend their bookings.
+
+
+\section{Function requirements}
+
+    \begin{tabular} {>{\stepcounter{rowcount}\therowcount}p{0.5cm}@{}*{2}{p{3cm}|p{12cm}}}
+    \hline
+       \multicolumn{2}{l}{Functional Requirements} & Description \\
+       \noalign{\setcounter{rowcount}{0}} \hline
+    & Homepage & Should promote the clients business \\
+    \hline
+    & Homepage & Should contain interactive elements \\
+    \hline
+    & Homepage & Must include pictures of previous voyages with text interleaved explaining why people should go on these moon trips\\
+    \hline
+    & Homepage & Contains a static navbar with links to other pages on the site\\
+    \hline
+    & Homepage & Contains a footer bar with links to company information \\
+    \hline
+    & Homepage & Show off products and services \\
+    \hline
+    & Contact / About details & Make it easy for people to contact them so all their contact information should be clearly available on a a page. \\
+    \hline
+    & Contact / About details & Contains all legal documents \\
+    \hline
+    & Contact / About details & Explains our ethos and why we want to go in to space \\
+    \hline
+    & Contact / About details & Contains our copyrights, trademarks and patents \\
+    \hline
+    & Bookings & After the booking is made a confirmation message is displayed \\
+    \hline
+    & Bookings & All orders should be held in MySQL\\
+    \hline
+    & Bookings & On opening the page user is presented with a list of open journeys \\
+    \hline
+    & Bookings & Open journeys are presented as a calendar with a red dot denoting bookable journeys this will allow a user to make a booking\\
+    \hline
+    & Bookings & Once a journey is booked the site will connect to a back end booking system and confirm the journey\\
+    \hline
+    & Login & This will be protected with a username and password and only allow the owner to view their orders \\
+    \hline
+    & Login & An admin login will be able to view all orders \\
+    \hline
+    & Login & At the login page it is also possible to sign up to the site \\
+    \hline
+    & Login & After login for the first time a customer is asked for billing address and bank details \\
+    \hline
+    & Login & After setup is finished the user redirects you to the booking page \\
+    \hline
+    & Account Management Page & A cog on the navbar will take you to the admin page \\
+    \hline
+    & Account Management Page & Will show a list of users booked journeys \\
+    \hline
+    & Account Management Page & Will allow user to update billing address, bank details, username and password \\
+    \hline
+    & Account Management Page & Allows user to delete account \\
+    \hline
+    & Pictures Of Us & Will show pictures of who we are in a rotating box, one image at a time\\
+    \hline
+    & Media & All pages should contain a mixture of media including text, images and videos \\
+    \hline
+    & General Site & All pages should have a consistent layout that include 10 usability principles  \\
+    \hline
+    & General Site & Must be responsive across all device types \\
+    \hline
+    & Navigation bar & website should have a navigation bar to make it easy for the user to move between pages \\
+    \hline
+    & Technical Spec & The site should be made in HTML,CSS and JavaScript \\
+    \hline 
+    & Technical Spec & The back end should have a MySQL database connected by PHP\\
+    \hline
+    & Technical Spec & Consider embedding YouTube videos \\
+    \hline
+    & Technical Spec & Online Mapping\\
+    \hline
+    & Technical Spec & Consider cross browser compatibility  \\
+    \hline
+    & Technical Spec & Consider adding social media integration \\
+    \hline
+    & Technical Spec & Consider responsive website building techniques\\
+    \hline
+    & Technical Spec & Consider a logical navigation structure \\
+    \hline
+    & Technical Spec & Consider database security \\
+    \hline
+    \end{tabular}
+
+
+\section{Type of content}
+\begin{itemize}
+    \item Text is used in nearly every website on the internet. If you don't have any text on your website it would likely be a lackluster website. Text will convey the message the client wants to send out in the way they want to convey it.
+    \item Images are used in a website in many different ways e.g. demonstration of a product, promoting a product and celebrating events. Images are very common and are widely understood by everyone because there is no language barrier. 
+    \item Videos are the best way to promote a product because you can convey a lot more information which will allow a client to promote their product more effectively. The downside to videos are that it takes a lot more effort and resource to make a video and even with that there can a language barrier created.
+    \item Social Media can be used to promote you website on other popular social sites. The downside to this can be that your site could be shown in a bad light on those sites, all of which is outside your control. 
+\end{itemize}
+
+\section{User Interactivity}
+\begin{itemize}
+    \item User Interactivity is the interaction of the user and software
+    \item Benefits of web user interactivity are that the website feels more reactive and not stale and unresponsive to the user 
+    \item A list of interactive features we will create on our client's website:
+    \begin{itemize}
+        \item Slideshow on homepage to show latest movie release for example 
+        \item Google Map, can show the location of you store
+        \item Online booking / order form 
+        \item All web pages will be linked using hyperlinks
+        \item Scroll and the images in the background lag behind
+        \item Some images will respond to the cursor movement this could be a glow or the text getting bigger.
+    \end{itemize}
+\end{itemize}
+
+\section{Responsive design requirements}
+\begin{itemize}
+    \item Responsive website design means that the website is flexible and can fit on a mobile or desktop device.
+    \item The benefits of that are that any device can be used to see and use your website
+    \begin{itemize}
+        \item For The Great UNKNOWN we will be using CSS for our responsive design because CSS is supported on nearly every web device and it can be setup to respond dynamically to different screen layouts
+        \item CSS media queries are statements that they define different style rules for different devices
+    \end{itemize}
+\end{itemize}
+
+\section{Constraints and Limitations}
+\begin{itemize}
+\item A deadline of late December 2023 is a hard constraint meaning we need to have a working website designed, developed and tested before that date.
+\item We will need to train company staff on how to look after the website.
+\item The CSS / JavaScript must not be too large or take up a lot of processing power as the website must operate on low powered mobile devices.
+\item We will need to make sure that customers can navigate the site easily.
+\item Website development will require our developers to have skills in HTML5,CSS3 and JavaScript
+\item The required design of the website must conform to the requirements set out by the customer
+\item The client has required the use of PHP and MySQL
+\item Scope of solution - our site does not make the booking, that us up to a back end booking system to do, on our command.
+\end{itemize}
+
+
+\section{List of Specific requirements}
+The client brief has been based upon the questionnaire that was drawn up with The Great UNKNOWN a copy of which is in Appendix A.
+\\
+\\
+There will be six components of the website, this will include:  homepage, login/join page, book you journey, about us, pictures of use and user account management page
+\appendix
+
+\section{Appendix Client Questionnaire}
+
+
+Q: Can you describe your brand?
+\\
+Client: Our company brand for The Great UNKNOWN is a company that can expand the consciousness of the human race by taking people in to space to experience the expanse and glory of space. We are a small start up and with that we want to take small steps in to the outer reaches of adventure by initially taking people to the moon and back. 
+\\
+\\
+Q: Can you give us an outline of your project?
+\\
+Client: We want a simple website that will inform people about outer space and to entice them in to wanting to take on the biggest adventure. 
+The website should consist of six pages, a homepage, customer login/join page, book you journey, about us, pictures of use and user account management page
+\\
+\\
+Q: What should be on the homepage?
+\\
+Client: The homepage is the first page that our customers will see when the open the website it must include pictures of the previous voyagers and advances in our space technology. Text will be interleaved between the photos or on top of the pictures and it should explain why they should send their money on a trip with this. There will be a static navbar with links to the other pages on the site, and there will also be a footer with a navbar with more links to other information e.g.: finical reports, history, Terms of Service etc.
+\\
+\\
+Q: What should be in the login page?
+\\
+Client:  The Login Page must be simple and straight forward.  It should contain a box with a username, password and name and a sign up login button. After the customer has logged in they will be presented with adding their billing address and adding their bank details in. When they are finished getting setup they will be redirected to the Book Your Journey page.
+\\
+\\
+Q: What will be in the User Account Management Page?
+\\
+Client: The User Account Management Page (U.A.M) has to include a section for changing there billing address, bank details, password and usernames. Other things that will be included is deleting their account.
+\\
+\\
+Q: What should be on the Book Your Journey page?
+\\
+Client: This page should be seamless for the user. When they open the page they should be immediately presented with a list of journeys that are available currently. The table should be organised as a  calendar where the top shows the month and below that will be day to the left. On top of that will be the time slots in the middle where small red dots will show what is available. 
+\\
+\\
+Q: What is the Pictures of Us page?
+\\
+Client: The Pictures page will be minimalist in design little so no words will be included, just what is necessary to describe the image that is showing. The layout of the page will have one image going after another in a square like pattern, where the box's can vary in size depending on how important the image is or what size the image is. By showing off these images it will hopefully entice the user to be apart of our journey together and see the what is beyond our small plant that we call home.
+\\
+\\
+Q: What is in the About us page?
+\\
+Client: The about us page the is the most sensible page of all. The about use page will include all the legal documents showing our certificates that prove we are allowed to fly these ships. It will explain our ethos, who we are and why we want to take you in to space. It will have all our copyrights, trademarks and patents so no one can copy our ships and steal our designs.
+\\
+\\
+Q: What is your Target Market?
+\\
+Client: Our target market is people who can afford to go in to outer space and who also want to be a part of unique and special experience that few people will have ever been able to take part in. They need to be adventurous, have an open heart and also be fit enough to be able to withstand the rigours of space travel.
+\\
+\\
+Q: Who are you competitors?
+\\
+Client: Currently our competitors are Space X, Blue Origin and NASA
+\\
+\\
+Q: Do you have a budget?
+\\
+Client: One Billion Dollars
+\\
+\\
+
+\end{document}

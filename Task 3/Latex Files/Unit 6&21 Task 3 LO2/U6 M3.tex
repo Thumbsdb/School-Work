@@ -1,0 +1,319 @@
+\documentclass{article}
+
+% Language setting
+% Replace `english' with e.g. `spanish' to change the document language
+\usepackage[english]{babel}
+
+\usepackage{multicol}
+\usepackage{tabularx}
+\usepackage{amsmath}
+
+\usepackage{xcolor}
+\usepackage{soul}
+% Set page size and margins
+% Replace `letterpaper' with `a4paper' for UK/EU standard size
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=20mm,
+ top=20mm,
+ }
+
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+
+  \usepackage{array}
+     \setlength{\extrarowheight}{2pt}
+    \newcounter{rowcount}
+\usepackage{float}
+
+\title{Task 3 U6 M3}
+\author{Chris}
+
+\begin{document}
+\maketitle
+
+\tableofcontents
+
+
+\section{Introduction}
+We demonstrated our design documentation for the project, NASA Space Exploration, to our client, The Great UNKNOWN, on the 1st of November. The client was happy with the first draught of our design but they also had some feed back that they wanted incorporated in to the website. This fitted in well with our adherence to the Iterative design model.
+
+In the rest of this document we have attached an edited version of a question driven interview we conducted with The Great UNKNOWN to find out what they liked and what they wanted to change.
+
+Any explicit actions that we need to take will be called out in the document as new requirements and the design documents will be updated and attached at the end
+
+\section{Questions}
+\subsection{Overall}
+Question: Now that you've seen the design documents, overall how do you feel that we have matched the requirements?
+
+
+Answer: Overall we believe the design section of this project has been a success. The wireframe markups have given us a lot of confidence that users who come to our website will be able to navigate it and understand how to go from page to page. Most importantly customers will know exactly why we want to take people to space and what going to space will do for them. 
+
+There are however some details that we will need to review with you and come up with some more draft designs to make sure that we're getting exactly what we wanted
+
+\subsection{Home Page}
+Question: Is it OK if we quickly go through each page to see what your thoughts are?
+\\
+Answer: Yes that's ok
+\\
+\\
+Question: Let's start with the Home or Landing page.
+\\
+Answer: So overall we were very pleased with the home page. The graphics on this page are very bold and it's very clear how a user can start booking their own journey. We also liked the navigation pane at the top, it was very easy to understand how to use it and easy to use it to move around the site. The sign up and login button to the top as well are also very standard and easy to use. While we did like the popular destinations section on the bottom of the page we felt that just seeing those isn't enough. As a user I would expect to be able to click on the destinations which are showing there and that would take us to the Book a journey page and the search there would be pre-filled with the destination that the user clicked on. Having to go to that page and then enter the destination we felt was a bit of an impedance that made it harder for users to use the site.
+\\
+\hl{New Requirement: When clicking on a home page diagram, the user should be taken to the search page and the destination is pre-filled with the destination they clicked on
+\\
+Implication: Meta data about the homepage picture needs to passed to the search page. 
+\\
+Implication: They can only show pictures for places we travel to}
+
+
+\subsection{Search Page}
+Question: How about the Search Page?
+\\
+Answer: The search pages you have there looks fine. The advanced features that you had shown would be nice to have in the future but for now they're not a part of the main requirements. What we really need is just a search that can search for dates that are free for a given number of users. 
+\\
+\subsection{Search Results}
+Question: On to the Search Results page, is it ok?
+\\
+Answer: Yes we were especially pleased with the search results page. It's very bold and displays each of the results that they have found very clearly. It makes it very straightforward for user to be able to know how much something's going to cost and also how to book it from that page. The search filters you have down left-hand side are also very useful we would like to make the filters customisable so that we can add in our own as the site evolves but on the whole this is exactly what we've been looking for
+\\
+\subsection{Booking Details}
+Question: That takes us to the booking details page
+\\
+Answer: Yes we like the flow of going from the search to the search results and on to the booking details. The booking details of the journey and the details panel is very clear and modern. We like that it displays all the details of who is going, the choice of departure times, the date and that the journey is booked for and that it flows well to actually finalize the booking
+\\
+\subsection{Pictures Page}
+Question: Over to the requested pictures page
+\\
+Answer: The look and feel of the pictures page it's very straightforward and there's not much to it. We've seen that has come preloaded with a set of stock pictures is it possible for us to be able to upload our own pictures as we don't see any means of doing that
+\\
+Us: Currently there is no way to upload your own pictures as there was no requirement for that, we can add this as a requirement
+\\
+\hl{New Requirement: The client should be able to upload and administer the pictures on the Pictures page
+\\
+Implication: An admin user will need to edit the list of pictures}
+\\
+\subsection{About Us}
+Question: What do you think about the About Us page?
+\\
+Answer: The about us page is nice and clean as well. It's also very modern and straightforward. It shows exactly the reasons we want to to go into space, what our beliefs are and our ethos in general. The one thing that we did notice though is that it's also not possible for us to edit this page, will be possible for us to add it this in the final site?
+\\
+\hl{New Requirement: The client should be able to edit the About Us page
+\\
+Implication: Only the admin will be allowed to update the About Us page and an admin only edit button should be added to the About Us page}
+\\
+\subsection{Profile}
+Question: The profile page is the last one. We have added admin functionality in to this page, so that an admin user can login to the site and administer all the bookings. Is this ok?
+\\
+Answer: Yes that's an interesting solution. We had not thought about administering bookings in that manner, but we can see how that would work and it seems like an easy way for us to administer all bookings. Overall the profile page looks very neat we especially like the multicolumn layout. We also like how intuitive it is to switch between settings. Administering the account details seems very straightforward as well and the booking orders on the final column is useful for users to be able to see the state of any other current bookings.
+\\
+\subsection{Any Other Questions}
+Question: Do you have any other questions about the site?
+\\
+Answer: We had noticed that we have to log in every time we come to our site. Is it possible to set up this site so that once a user has logged in and they come back to our site that they don't have to log in again until they logout?
+\\
+\hl{New Requirement: Users should be able to stay logged in to the site 
+\\
+Implication: A session cookie will need to be stored as a cookie in the users browser}
+\\
+\subsection{ERD and Flow Diagrams}
+Question: Having reviewed the data diagrams, do you have any concerns?
+\\
+Answer: We noticed from your Entity Relationship Diagram that looks like only the user who has an account on our site is able to book a journey for themselves. Would it be possible to change the database so that they can book a journey for more than one person as a part of the same journey, as that is the impression customers will get from website?
+\\
+\hl{New Requirement: Multiple people need to be able to book as a part of the same journey
+\\
+Implication: Need to add booking table and change journey table to point to Foreign Key of bookings instead of users}
+\\
+Answer: We also noticed that every time we log in we get taken directly to the building address page. Is it possible for that only to happen the first time a user logs in and every time after that they get redirected to the home page or to the booking page?
+\\
+\hl{New Requirement: After a user has logged in the first time they will be taken to the homepage and not the profile page 
+\\
+Implication: A column in the user table needs to record that the billing address has been updated}
+\\
+\subsection{Developer Questions}
+Question:We have one question for you. There is no specific requirement to be able to create a new user on the site. The implication being that an admin will have to create the users account. Do you want users to be able to create their own accounts?
+\\
+Answer: Yes we definitely do!
+\\
+\hl{New Requirement: It is possible to sign up a new user on the website 
+\\
+Implication: Need to update profile page to all creation of a new user}
+\\
+
+\section{Updated Functional requirements}
+
+xx are the new requirements 
+
+    \begin{tabular} {>{\stepcounter{rowcount}\therowcount}p{0.5cm}@{}*{2}{p{3cm}|p{12cm}}}
+    \hline
+       \multicolumn{2}{l}{Functional Requirements} & Description \\
+       \noalign{\setcounter{rowcount}{0}} \hline
+    & Homepage & Should promote the clients business \\
+    \hline
+    & Homepage & Should contain interactive elements \\
+    \hline
+    & Homepage & Must include picture of previous voyages with text interleaved explaining why people should go on these moon trips\\
+    \hline
+    & Homepage & Contains a static navbar with links to other pages on the site\\
+    \hline
+    & Homepage & Contains a footer bar with links to company information \\
+    \hline
+    & Homepage & Show off products and services \\
+    \hline
+    & xx Homepage & Clicking on a diagram takes the user to the search page and the destination is pre-filled with their destination \\
+    \hline
+    & Contact / About details & Make it easy for people to contact them so all their contact information should be clearly available on a a page. \\
+    \hline
+    & Contact / About details & Contains all legal documents \\
+    \hline
+    & Contact / About details & Explains our ethos and why we want to go in to space \\
+    \hline
+    & Contact / About details & Contains our copyrights, trademarks and patents \\
+    \hline
+    & xx Contact / About details & The client should be able to edit the uploads page \\
+    \hline
+    & Bookings & After the booking is made a confirmation message is displayed \\
+    \hline
+    & Bookings & All orders should be held in MySQL\\
+    \hline
+    & Bookings & On opening the page user is presented with a list of open journeys \\
+    \hline
+    & Bookings & Open journeys are presented as a calendar with a red dot denoting bookable journeys this will allow a user to make a booking\\
+    \hline
+    & Bookings & Once a journey is booked the site will connect to a back end booking system and confirm the journey \\
+    \hline
+    & Login & This will be protected with a username and password and only allow the owner to view their orders \\
+    \hline
+    & Login & An admin login will be able to view all orders \\
+    \hline
+    & Login & At the login page it is also possible to sign up to the site \\
+    \hline
+    & Login & After login for the first time a customer is asked for billing address and bank details \\
+    \hline
+    & Login & After setup is finished the user redirects you to the booking page \\
+    \hline
+    & xx Login & After a user has logged in the first time they will be taken to the homepage and not the profile page \\
+    \hline
+    & Account Management Page & A cog on the navbar will take you to the admin page \\
+    \hline
+    & Account Management Page & Will show a list of users booked journeys \\
+    \hline
+    & Account Management Page & Will allow user to update billing address, bank details, username and password \\
+    \hline
+    & Account Management Page & Allows user to delete account \\
+    \hline
+    & xx Account Management Page & It is possible to sign up a new user on the website \\
+    \hline
+    & Pictures Of Us & Will show pictures of who we are in a rotating box, one image at a time\\
+    \hline
+    & xx Pictures Of Us & The client should be able to upload and administer the pictures on the Pictures page\\
+    \hline 
+    & Media & All pages should contain a mixture of media including text, images and videos \\
+    \hline
+    & General Site & All pages should have a consistent layout that include 10 usability principles  \\
+    \hline
+
+
+
+    \end{tabular}
+
+   \begin{tabular} {>{\stepcounter{rowcount}\therowcount}p{0.5cm}@{}*{2}{p{3cm}|p{12cm}}}
+    \hline
+        & General Site & Must be responsive across all device types \\
+    \hline
+        & Navigation bar & website should have a navigation bar to make it easy for the user to move between pages \\
+    \hline
+       \multicolumn{2}{l}{Functional Requirements} & Description \\
+     \hline
+         & Technical Spec & The site should be make in HTML,CSS and JavaScript \\
+    \hline 
+    & Technical Spec & The back end should have a MySQL date base connected by PHP\\
+    \hline
+    & Technical Spec & Consider embedding YouTube videos \\
+    \hline
+    & Technical Spec & Online Mapping\\
+    \hline
+    & Technical Spec & Consider cross browser compatibility  \\
+    \hline
+    & Technical Spec & Consider adding social media integration \\
+    \hline
+    & Technical Spec & Consider responsive website building techniques\\
+    \hline
+    & Technical Spec & Consider a logical navigation structure \\
+    \hline
+    & Technical Spec & Consider database security \\
+    \hline
+    & xx Technical Spec & Users should be able to stay logged in to the site \\
+    \hline
+    & xx Technical Spec & Multiple people need to be able to book as a part of the same journey \\
+    \hline 
+   \end{tabular}
+
+   
+\section{Updated Website Diagrams}
+\subsection{Requirement 7}
+Requirement 7: Clicking on a diagram takes the user to the search page and the destination is pre-filled with their destination
+\\
+\begin{figure}[H]
+    \includegraphics[width=0.85\linewidth]{{NewHomepage.png}}
+    \caption{The pictures in the homepage now link to the Search Page}
+    \label{fig:NewHomepage}
+\end{figure}
+Figure ~\ref{fig:NewHomepage} shows the pictures on the home page now switching to the search page.
+\\
+\begin{figure}[H]
+    \includegraphics[width=0.85\linewidth]{{NewHomepageDataFlow.png}}
+    \caption{Home page DataFlow}
+    \label{fig:NewHomepageDataFlow}
+\end{figure}
+Figure ~\ref{fig:NewHomepageDataFlow} shows a user clicking on one of the journey pictures on the homepage and them being redirected to the Search page with details of the journey they selected already pre-populated
+\\
+\subsection{Requirement 12}
+Requirement 12: The client should be able to edit the uploads page
+\begin{figure}[H]
+    \includegraphics[width=0.85\linewidth]{{EditableAboutUs.png}}
+    \caption{Editable About Us Page}
+    \label{fig:EditableAboutUs}
+\end{figure}
+Figure ~\ref{fig:EditableAboutUs} show the About Us page with a button that will only appear for admins and allow them to edit and save the contents of the About Us page
+\\
+\subsection{Requirement 23}
+Requirement 23: After a user has logged in the first time they will be taken to the homepage and not the profile page
+\begin{figure}[H]
+    \includegraphics[width=0.85\linewidth]{{FirstLogin.png}}
+    \caption{Dataflow of first login}
+    \label{fig:FirstLogin}
+\end{figure}
+Figure ~\ref{fig:FirstLogin} shows how the user will only be shown show the fill billing details if they have not already filled it out. Otherwise they will be redirected to the homepage
+\subsection{Requirement 28}
+Requirement 28: It is possible to sign up a new user on the website 
+\\
+Previously we discussed this requirement with the client where they had expressed a desire for people to be able to sign up to the website.  Based on that we have already added this design.
+\\
+\subsection{Requirement 30}
+Requirement 30: The client should be able to upload and administer the pictures on the Pictures page
+\begin{figure}[H]
+    \includegraphics[width=0.85\linewidth]{{EditablePictures.png}}
+    \caption{Editable Pictures Page}
+    \label{fig:EditablePictures}
+\end{figure}
+Figure ~\ref{fig:EditablePictures} show the Pictures page with a button that will only appear for admins and allow them to edit and save the pictures on the Pictures Page
+\\
+\section{Updated ERD}
+\subsection{Database Updates}
+Requirement 44: Users should be able to stay logged in to the site
+Requirement 45 Technical Spec Multiple people need to be able to book as a part of the same journe
+\begin{figure}[H]
+    \includegraphics[width=0.85\linewidth]{{NewNERD.png}}
+    \caption{Updated ERD}
+    \label{fig:NewNERD}
+\end{figure}
+Figure ~\ref{fig:NewNERD} shows how we have added a session ID to the user table. This will store the session ID in the user table once a user has logged in. When they return to the website, if the session cookie in their browsers matches the session ID in this table then they are automatically logged in.
+A new table has been added to store user bookings. This table will also store an array of the other passengers associated with a booking. This allows for multiple people to travel together on the same booking .
+\\
+
+\end{document}
