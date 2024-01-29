@@ -1,0 +1,1211 @@
+﻿Log file open, 01/29/24 15:43:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: School
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.265324
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17155196
+LogInit: Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i5-12400, GPU: NVIDIA T400 4GB
+LogInit: Compiled (64-bit): Aug 13 2021 06:13:13
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Unreal/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.01.29-15.44.00:356][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.01.29-15.44.00:356][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.01.29-15.44.00:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Engine.ini]
+[2024.01.29-15.44.00:356][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.01.29-15.44.00:356][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2024.01.29-15.44.00:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Engine.ini]
+[2024.01.29-15.44.00:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Engine.ini]
+[2024.01.29-15.44.00:356][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.01.29-15.44.00:356][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.01.29-15.44.00:356][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.01.29-15.44.00:356][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.01.29-15.44.00:356][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.01.29-15.44.00:356][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.01.29-15.44.00:356][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.01.29-15.44.00:356][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.01.29-15.44.00:356][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.01.29-15.44.00:357][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.01.29-15.44.00:357][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.01.29-15.44.00:357][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.01.29-15.44.00:357][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.01.29-15.44.00:357][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2024.01.29-15.44.00:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Engine.ini]
+[2024.01.29-15.44.00:357][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.01.29-15.44.00:357][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.01.29-15.44.00:357][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.01.29-15.44.00:357][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.01.29-15.44.00:357][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.01.29-15.44.00:357][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.01.29-15.44.00:357][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.01.29-15.44.00:357][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.01.29-15.44.00:357][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.01.29-15.44.00:357][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.01.29-15.44.00:357][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.01.29-15.44.00:357][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.01.29-15.44.00:357][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.01.29-15.44.00:357][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.01.29-15.44.00:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Engine.ini]
+[2024.01.29-15.44.00:357][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Engine.ini]
+[2024.01.29-15.44.00:365][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Scalability.ini]
+[2024.01.29-15.44.00:365][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.01.29-15.44.00:365][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.01.29-15.44.00:365][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Scalability.ini]
+[2024.01.29-15.44.00:365][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.01.29-15.44.00:365][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Scalability.ini]
+[2024.01.29-15.44.00:365][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.01.29-15.44.00:365][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.01.29-15.44.00:365][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.01.29-15.44.00:365][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.01.29-15.44.00:365][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.01.29-15.44.00:365][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.01.29-15.44.00:365][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.01.29-15.44.00:365][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.01.29-15.44.00:365][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.01.29-15.44.00:365][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.01.29-15.44.00:365][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.01.29-15.44.00:365][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.01.29-15.44.00:365][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.01.29-15.44.00:365][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.01.29-15.44.00:365][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.01.29-15.44.00:365][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.01.29-15.44.00:365][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.01.29-15.44.00:365][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.01.29-15.44.00:365][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Scalability.ini]
+[2024.01.29-15.44.00:365][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.01.29-15.44.00:365][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Scalability.ini]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Scalability.ini]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Scalability.ini]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Scalability.ini]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.01.29-15.44.00:366][  0]LogInit: Selected Device Profile: [Windows]
+[2024.01.29-15.44.00:366][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.01.29-15.44.00:366][  0]LogHAL: Display: Platform has ~ 16 GB [16833589248 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.01.29-15.44.00:366][  0]LogInit: Going up to parent DeviceProfile []
+[2024.01.29-15.44.00:366][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Scalability.ini]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Scalability.ini]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Scalability.ini]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Scalability.ini]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.01.29-15.44.00:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Scalability.ini]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Scalability.ini]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Scalability.ini]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Scalability.ini]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.01.29-15.44.00:367][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.01.29-15.44.00:367][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.01.29-15.44.00:368][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.01.29-15.44.00:368][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2024.01.29-15.44.00:368][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Engine.ini]
+[2024.01.29-15.44.00:368][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Config/Windows/Editor.ini]
+[2024.01.29-15.44.00:368][  0]LogInit: Computer: M2L116AC16
+[2024.01.29-15.44.00:368][  0]LogInit: User: 50037667
+[2024.01.29-15.44.00:368][  0]LogInit: CPU Page size=4096, Cores=6
+[2024.01.29-15.44.00:368][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.01.29-15.44.00:368][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2024.01.29-15.44.00:368][  0]LogMemory: Platform Memory Stats for Windows
+[2024.01.29-15.44.00:368][  0]LogMemory: Process Physical Memory: 148.12 MB used, 148.12 MB peak
+[2024.01.29-15.44.00:368][  0]LogMemory: Process Virtual Memory: 135.09 MB used, 135.09 MB peak
+[2024.01.29-15.44.00:368][  0]LogMemory: Physical Memory: 11518.28 MB used,  4535.48 MB free, 16053.76 MB total
+[2024.01.29-15.44.00:368][  0]LogMemory: Virtual Memory: 134215000.00 MB used,  2724.39 MB free, 134217728.00 MB total
+[2024.01.29-15.44.00:379][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.01.29-15.44.00:431][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2024.01.29-15.44.00:432][  0]LogInit: Using OS detected language (en-GB).
+[2024.01.29-15.44.00:432][  0]LogInit: Using OS detected locale (en-GB).
+[2024.01.29-15.44.00:435][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2024.01.29-15.44.00:607][  0]LogInit: Setting process to per monitor DPI aware
+[2024.01.29-15.44.00:630][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.01.29-15.44.00:649][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.01.29-15.44.00:649][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.01.29-15.44.01:090][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2024.01.29-15.44.01:096][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.01.29-15.44.01:096][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2024.01.29-15.44.01:096][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2024.01.29-15.44.01:096][  0]LogD3D11RHI: D3D11 adapters:
+[2024.01.29-15.44.01:226][  0]LogD3D11RHI:    0. 'NVIDIA T400 4GB' (Feature Level 11_0)
+[2024.01.29-15.44.01:226][  0]LogD3D11RHI:       3956/0/8026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2024.01.29-15.44.01:279][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 730' (Feature Level 11_0)
+[2024.01.29-15.44.01:279][  0]LogD3D11RHI:       128/0/8026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2024.01.29-15.44.01:283][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.01.29-15.44.01:283][  0]LogD3D11RHI:       0/0/8026 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.01.29-15.44.01:283][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.01.29-15.44.01:292][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.01.29-15.44.01:292][  0]LogD3D11RHI:     GPU DeviceId: 0x1ff2 (for the marketing name, search the web for "GPU Device Id")
+[2024.01.29-15.44.01:292][  0]LogWindows: EnumDisplayDevices:
+[2024.01.29-15.44.01:292][  0]LogWindows:    0. 'NVIDIA T400 4GB' (P:1 D:1)
+[2024.01.29-15.44.01:292][  0]LogWindows:    1. 'NVIDIA T400 4GB' (P:0 D:0)
+[2024.01.29-15.44.01:292][  0]LogWindows:    2. 'NVIDIA T400 4GB' (P:0 D:0)
+[2024.01.29-15.44.01:292][  0]LogWindows:    3. 'NVIDIA T400 4GB' (P:0 D:0)
+[2024.01.29-15.44.01:293][  0]LogWindows:    4. 'Intel(R) UHD Graphics 730' (P:0 D:0)
+[2024.01.29-15.44.01:293][  0]LogWindows:    5. 'Intel(R) UHD Graphics 730' (P:0 D:0)
+[2024.01.29-15.44.01:293][  0]LogWindows:    6. 'Intel(R) UHD Graphics 730' (P:0 D:0)
+[2024.01.29-15.44.01:293][  0]LogWindows:    7. 'Intel(R) UHD Graphics 730' (P:0 D:0)
+[2024.01.29-15.44.01:293][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2024.01.29-15.44.01:293][  0]LogD3D11RHI:     Adapter Name: NVIDIA T400 4GB
+[2024.01.29-15.44.01:293][  0]LogD3D11RHI:   Driver Version: 531.41 (internal:31.0.15.3141, unified:531.41)
+[2024.01.29-15.44.01:293][  0]LogD3D11RHI:      Driver Date: 3-16-2023
+[2024.01.29-15.44.01:293][  0]LogRHI: Texture pool is 2769 MB (70% of 3956 MB)
+[2024.01.29-15.44.01:396][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2024.01.29-15.44.01:397][  0]LogD3D11RHI: Async texture creation enabled
+[2024.01.29-15.44.01:397][  0]LogD3D11RHI: Array index from any shader is supported
+[2024.01.29-15.44.01:415][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2024.01.29-15.44.01:454][  0]LogRHI: GeForceNow SDK initialized: 1
+[2024.01.29-15.44.01:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2024.01.29-15.44.01:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.01.29-15.44.01:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.01.29-15.44.01:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.01.29-15.44.01:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.01.29-15.44.01:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.01.29-15.44.01:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.01.29-15.44.01:821][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.01.29-15.44.01:821][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.01.29-15.44.01:821][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.01.29-15.44.01:821][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.01.29-15.44.01:843][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.01.29-15.44.01:843][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.01.29-15.44.01:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.01.29-15.44.01:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2024.01.29-15.44.01:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.01.29-15.44.01:872][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.01.29-15.44.01:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2024.01.29-15.44.01:888][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2024.01.29-15.44.01:894][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2024.01.29-15.44.01:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2024.01.29-15.44.01:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2024.01.29-15.44.01:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2024.01.29-15.44.01:935][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2024.01.29-15.44.01:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2024.01.29-15.44.01:946][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2024.01.29-15.44.01:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.01.29-15.44.01:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.01.29-15.44.01:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2024.01.29-15.44.01:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.01.29-15.44.01:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.01.29-15.44.01:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.01.29-15.44.01:987][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.01.29-15.44.02:001][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.01.29-15.44.02:059][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2024.01.29-15.44.02:117][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.01.29-15.44.02:118][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../Users/50037667/Documents/School Work/Unit 15/School/Intermediate/Shaders/WorkingDirectory/21392/).
+[2024.01.29-15.44.02:118][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/50037667/AppData/Local/Temp/UnrealShaderWorkingDir/41AFD9F64044F418FD737092389ADA16/'.
+[2024.01.29-15.44.02:118][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.01.29-15.44.02:118][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.01.29-15.44.02:118][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.01.29-15.44.02:901][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.01.29-15.44.02:970][  0]LogDerivedDataCache: Loaded boot cache 0.07s 133MB C:/Users/50037667/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2024.01.29-15.44.02:970][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/50037667/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2024.01.29-15.44.02:970][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/50037667/Documents/School Work/Unit 15/School/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.01.29-15.44.02:970][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.01.29-15.44.02:970][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/50037667/Documents/School Work/Unit 15/School/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.01.29-15.44.02:970][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.01.29-15.44.02:983][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.01.29-15.44.02:983][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.01.29-15.44.02:983][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.01.29-15.44.03:001][  0]LogDerivedDataCache: Speed tests for C:/Users/50037667/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2024.01.29-15.44.03:002][  0]LogDerivedDataCache: Display: Performance to C:/Users/50037667/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=133.04MBs, RandomWriteSpeed=87.34MBs. Assigned SpeedClass 'Local'
+[2024.01.29-15.44.03:002][  0]LogDerivedDataCache: Using Local data cache path C:/Users/50037667/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.01.29-15.44.03:002][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.01.29-15.44.03:002][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.01.29-15.44.03:034][  0]LogSlate: Using FreeType 2.10.0
+[2024.01.29-15.44.03:037][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.01.29-15.44.03:093][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2024.01.29-15.44.03:269][  0]LogInit: Selected Device Profile: [Windows]
+[2024.01.29-15.44.03:269][  0]LogInit: Active device profile: [000002A247EE8900][000002A2471BF700 49] Windows
+[2024.01.29-15.44.03:269][  0]LogInit: Profiles: [000002A247EE8900][000002A2471BF700 49] Windows, [000002A247EA3800][000002A2471C7880 49] WindowsNoEditor, [000002A247EEB500][000002A2471CBA00 49] WindowsServer, [000002A247EA0E00][000002A2471CFB80 49] WindowsClient, [000002A247EEB800][000002A2471D2180 49] IOS, [000002A247EA2800][000002A2471D6300 49] iPadAir, [000002A247EEA000][000002A2471DA480 49] iPadAir2, [000002A247E38A00][000002A2471E2740 49] IPadPro, [000002A247E38B00][000002A2471DE780 49] iPadAir3, [000002A247EA1900][000002A2471E6900 49] iPadAir4, [000002A247E3B400][000002A2471EAA80 49] iPadMini2, [000002A247EA2A00][000002A2471C2BC0 49] iPadMini3, [000002A247E39700][000002A2471EED00 49] iPadMini4, [000002A247EE9100][000002A2471F2E40 49] iPadMini5, [000002A247E58300][000002A2471FF0C0 49] iPhone6, [000002A247E58400][000002A2471F7100 49] iPodTouch6, [000002A247E3B600][000002A2472073C0 49] iPhone7, [000002A247E39800][000002A247203400 49] iPodTouch7, [000002A247E5BF00][000002A24720B580 49] iPhone5S, [000002A247EA2200][000002A24720F700 49] iPhone6Plus, [000002A247E38200][000002A247213880 49] iPhone6S, [000002A247EA2400][000002A247217A00 49] iPhone6SPlus, [000002A247E3BC00][000002A24721BB80 49] iPhone7Plus, [000002A247EA0300][000002A24721E180 49] iPhoneSE, [000002A247E3B500][000002A247222300 49] iPhone8, [000002A247EA1E00][000002A247226480 49] iPhone8Plus, [000002A247E39100][000002A24722A600 49] iPhoneX, [000002A247EA0400][000002A24722E780 49] iPhoneXS, [000002A247E39300][000002A247232900 49] iPhoneXSMax, [000002A247EA1400][000002A247236A80 49] iPhoneXR, [000002A247E3B800][000002A24723AC00 49] iPhone11, [000002A247EA2E00][000002A2471FAD40 49] iPhone11Pro, [000002A247E3B700][000002A24723EE80 49] iPhone11ProMax, [000002A247EA0F00][000002A247242FC0 49] iPhoneSE2, [000002A247E3AE00][000002A247247100 49] iPhone12Mini, [000002A247EA3C00][000002A248261280 49] iPhone12, [000002A247E3A400][000002A248265400 49] iPhone12Pro, [000002A247EA0700][000002A248269580 49] iPhone12ProMax, [000002A247E3A300][000002A24826D700 49] iPadPro105, [000002A247EA3100][000002A248271880 49] iPadPro129, [000002A247E3A200][000002A248275A00 49] iPadPro97, [000002A247EA0B00][000002A248279B80 49] iPadPro2_129, [000002A247E3B200][000002A24827C180 49] iPad5, [000002A247EA3400][000002A248280300 49] iPad6, [000002A247E3B300][000002A248284480 49] iPad7, [000002A247EA0200][000002A248288600 49] iPad8, [000002A247E39A00][000002A24828C780 49] iPadPro11, [000002A247EA1600][000002A248290900 49] iPadPro2_11, [000002A247E39D00][000002A248294A80 49] iPadPro3_129, [000002A247EA3900][000002A248298C00 49] iPadPro4_129, [000002A247E3B000][000002A24829CD80 49] AppleTV, [000002A247EA3F00][000002A2482A0F00 49] AppleTV4K, [000002A247E38100][000002A24724B040 49] TVOS, [000002A247EA2500][000002A2482A5180 49] Mac, [000002A247E3BB00][000002A2482A92C0 49] MacClient, [000002A247EA1B00][000002A2482B1440 49] MacNoEditor, [000002A247E3AC00][000002A2482B55C0 49] MacServer, [000002A247EA0A00][000002A2482B9740 49] Linux, [000002A247E3A000][000002A2482BD8C0 49] LinuxAArch64, [000002A247EA2700][000002A2482C1A40 49] LinuxNoEditor, [000002A247E3A500][000002A2482C5BC0 49] LinuxAArch64NoEditor, [000002A247EA1500][000002A2482C81C0 49] LinuxClient, [000002A247E3B900][000002A2482CC340 49] LinuxAArch64Client, [000002A247EA1700][000002A2482D04C0 49] LinuxServer, [000002A247E39900][000002A2482D4640 49] LinuxAArch64Server, [000002A247EA3700][000002A2482D87C0 49] Android, [000002A247E38600][000002A2482DC940 49] Android_Low, [000002A247EA2D00][000002A2482E0AC0 49] Android_Mid, [000002A247EEBA00][000002A2482E4C40 49] Android_High, [000002A247E59C00][000002A2482E8DC0 49] Android_Default, [000002A247EEA100][000002A2482ECF40 49] Android_Adreno4xx, [000002A247E5A700][000002A2482F10C0 49] Android_Adreno5xx_Low, [000002A247EE8A00][000002A2482AD200 49] Android_Adreno5xx, [000002A247E5AD00][000002A2482F5340 49] Android_Adreno6xx, [000002A247EE9200][000002A2482F9480 49] Android_Adreno6xx_Vulkan, [000002A247E5A800][000002A2482FD5C0 49] Android_Mali_T6xx, [000002A247EEA600][000002A248305740 49] Android_Mali_T7xx, [000002A247E5AE00][000002A2483098C0 49] Android_Mali_T8xx, [000002A247EEB200][000002A24830DA40 49] Android_Mali_G71, [000002A247E5BC00][000002A248311BC0 49] Android_Mali_G72, [000002A247EEAA00][000002A2483141C0 49] Android_Mali_G72_Vulkan, [000002A247E59B00][000002A248318340 49] Android_Mali_G76, [000002A247EE9A00][000002A24831C4C0 49] Android_Mali_G76_Vulkan, [000002A247E5A000][000002A248320640 49] Android_Mali_G77, [000002A247EEAD00][000002A2483247C0 49] Android_Mali_G77_Vulkan, [000002A247E5B800][000002A248328940 49] Android_Mali_G78, [000002A247EEA800][000002A24832CAC0 49] Android_Mali_G78_Vulkan, [000002A247E59200][000002A248330C40 49] Android_Mali_G710, [000002A247EE8E00][000002A248334DC0 49] Android_Mali_G710_Vulkan, [000002A247E5B500][000002A248338F40 49] Android_Vulkan_SM5, [000002A247EEB400][000002A24833D0C0 49] Android_PowerVR_G6xxx, [000002A247E5AC00][000002A248341240 49] Android_PowerVR_GT7xxx, [000002A247EEBC00][000002A248301380 49] Android_PowerVR_GE8xxx, [000002A247E58E00][000002A2483454C0 49] Android_PowerVR_GM9xxx, [000002A247EE9800][000002A248349600 49] Android_PowerVR_GM9xxx_Vulkan, [000002A247E5A400][000002A24834D740 49] Android_TegraK1, [000002A247EE9000][000002A2483558C0 49] Android_Unknown_Vulkan, [000002A247EA3A00][000002A248359A40 49] Lumin, [000002A247EE9E00][000002A24835DBC0 49] Lumin_Desktop, [000002A247EA1C00][000002A2483601C0 49] HoloLens, 
+[2024.01.29-15.44.03:548][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.01.29-15.44.03:548][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.01.29-15.44.03:548][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.01.29-15.44.03:548][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.01.29-15.44.03:548][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.01.29-15.44.03:625][  0]LogNetVersion: School 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2931348369)
+[2024.01.29-15.44.05:080][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.01.29-15.44.05:181][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2024.01.29-15.44.05:186][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2024.01.29-15.44.05:186][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2024.01.29-15.44.05:186][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.01.29-15.44.05:817][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 143E6AB34B9CB47B5D4C5DBACD50AFFB | Instance: BB1B247345E8CF569DA7949092D4DBF7 (M2L116AC16-21392).
+[2024.01.29-15.44.05:896][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2024.01.29-15.44.05:896][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2024.01.29-15.44.05:896][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2024.01.29-15.44.05:896][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2024.01.29-15.44.05:896][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2024.01.29-15.44.05:896][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2024.01.29-15.44.05:896][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2024.01.29-15.44.05:896][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2024.01.29-15.44.05:896][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2024.01.29-15.44.05:896][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2024.01.29-15.44.05:896][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2024.01.29-15.44.05:896][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2024.01.29-15.44.05:896][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2024.01.29-15.44.05:896][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2024.01.29-15.44.05:896][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2024.01.29-15.44.05:896][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2024.01.29-15.44.05:896][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2024.01.29-15.44.05:896][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2024.01.29-15.44.05:987][  0]LogPython: Using Python 3.7.7
+[2024.01.29-15.44.06:355][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.01.29-15.44.06:382][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.01.29-15.44.06:829][  0]SourceControl: Source control is disabled
+[2024.01.29-15.44.06:829][  0]SourceControl: Source control is disabled
+[2024.01.29-15.44.06:834][  0]SourceControl: Source control is disabled
+[2024.01.29-15.44.06:839][  0]SourceControl: Source control is disabled
+[2024.01.29-15.44.06:857][  0]SourceControl: Source control is disabled
+[2024.01.29-15.44.06:871][  0]LogUProjectInfo: Found projects:
+[2024.01.29-15.44.07:094][  0]LogOpenImageDenoise: OIDN starting up
+[2024.01.29-15.44.07:138][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.01.29-15.44.07:172][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.01.29-15.44.07:172][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.01.29-15.44.07:424][  0]LogOcInput: OculusInput pre-init called
+[2024.01.29-15.44.07:972][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2024.01.29-15.44.07:972][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2024.01.29-15.44.07:972][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2024.01.29-15.44.07:972][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2024.01.29-15.44.07:972][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2024.01.29-15.44.07:972][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2024.01.29-15.44.07:972][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2024.01.29-15.44.07:972][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2024.01.29-15.44.07:972][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2024.01.29-15.44.07:972][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2024.01.29-15.44.07:972][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2024.01.29-15.44.07:972][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2024.01.29-15.44.07:972][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2024.01.29-15.44.07:972][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2024.01.29-15.44.07:972][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2024.01.29-15.44.07:972][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2024.01.29-15.44.07:972][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2024.01.29-15.44.07:972][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2024.01.29-15.44.07:972][  0]LogCollectionManager: Loaded 0 collections in 0.001177 seconds
+[2024.01.29-15.44.08:040][  0]LogFileCache: Scanning file cache for directory 'C:/Users/50037667/Documents/School Work/Unit 15/School/Saved/Collections/' took 0.00s
+[2024.01.29-15.44.08:040][  0]LogFileCache: Scanning file cache for directory 'C:/Users/50037667/Documents/School Work/Unit 15/School/Content/Developers/50037667/Collections/' took 0.00s
+[2024.01.29-15.44.08:040][  0]LogFileCache: Scanning file cache for directory 'C:/Users/50037667/Documents/School Work/Unit 15/School/Content/Collections/' took 0.00s
+[2024.01.29-15.44.08:040][  0]LogEngine: Initializing Engine...
+[2024.01.29-15.44.08:043][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2024.01.29-15.44.08:044][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.01.29-15.44.08:044][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2024.01.29-15.44.08:044][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.01.29-15.44.08:178][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.01.29-15.44.08:188][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.01.29-15.44.08:188][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.01.29-15.44.08:193][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.01.29-15.44.08:195][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.01.29-15.44.08:195][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.01.29-15.44.08:195][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.01.29-15.44.08:195][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.29-15.44.08:195][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.29-15.44.08:195][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.29-15.44.08:195][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.29-15.44.08:195][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.29-15.44.08:195][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.29-15.44.08:195][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.29-15.44.08:195][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.29-15.44.08:196][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.29-15.44.08:196][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.29-15.44.08:196][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.29-15.44.08:196][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.29-15.44.08:208][  0]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.29-15.44.08:208][  0]LogAudioMixer: Display: 1: FrontRight
+[2024.01.29-15.44.08:318][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.01.29-15.44.08:321][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.29-15.44.08:333][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.29-15.44.08:333][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.29-15.44.08:334][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.29-15.44.08:334][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.29-15.44.08:334][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.29-15.44.08:335][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.29-15.44.08:335][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.29-15.44.08:335][  0]LogInit: FAudioDevice initialized.
+[2024.01.29-15.44.08:335][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.01.29-15.44.08:335][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.01.29-15.44.08:401][  0]LogDerivedDataCache: Saved boot cache 0.07s 133MB C:/Users/50037667/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2024.01.29-15.44.08:404][  0]LogInit: Texture streaming: Enabled
+[2024.01.29-15.44.08:423][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.0-17155196+++UE4+Release-4.27
+[2024.01.29-15.44.08:432][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.01.29-15.44.08:432][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2024.01.29-15.44.08:442][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2024.01.29-15.44.08:466][  0]LogInit: Transaction tracking system initialized
+[2024.01.29-15.44.08:501][  0]BlueprintLog: New page: Editor Load
+[2024.01.29-15.44.08:610][  0]LocalizationService: Localization service is disabled
+[2024.01.29-15.44.08:650][  0]TimingProfiler: Initialize
+[2024.01.29-15.44.08:650][  0]TimingProfiler: OnSessionChanged
+[2024.01.29-15.44.08:650][  0]LoadingProfiler: Initialize
+[2024.01.29-15.44.08:650][  0]LoadingProfiler: OnSessionChanged
+[2024.01.29-15.44.08:650][  0]NetworkingProfiler: Initialize
+[2024.01.29-15.44.08:650][  0]NetworkingProfiler: OnSessionChanged
+[2024.01.29-15.44.08:650][  0]MemoryProfiler: Initialize
+[2024.01.29-15.44.08:650][  0]MemoryProfiler: OnSessionChanged
+[2024.01.29-15.44.08:940][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2024.01.29-15.44.08:940][  0]LogCook: Display: Mobile HDR setting 0
+[2024.01.29-15.44.09:215][  0]LogFileCache: Scanning file cache for directory 'C:/Users/50037667/Documents/School Work/Unit 15/School/Content/' took 0.00s
+[2024.01.29-15.44.09:742][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2024.01.29-15.44.09:742][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2024.01.29-15.44.09:742][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2024.01.29-15.44.09:742][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2024.01.29-15.44.09:742][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2024.01.29-15.44.09:742][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2024.01.29-15.44.09:742][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2024.01.29-15.44.09:742][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2024.01.29-15.44.09:742][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2024.01.29-15.44.09:742][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2024.01.29-15.44.09:742][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2024.01.29-15.44.09:742][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2024.01.29-15.44.09:742][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2024.01.29-15.44.09:742][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2024.01.29-15.44.09:742][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2024.01.29-15.44.09:742][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2024.01.29-15.44.09:742][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2024.01.29-15.44.09:742][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2024.01.29-15.44.09:755][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.01.29-15.44.09:762][  0]SourceControl: Source control is disabled
+[2024.01.29-15.44.09:762][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.797
+[2024.01.29-15.44.09:764][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Unreal/UE_4.27/FeaturePacks/StarterContent.upack)
+[2024.01.29-15.44.09:764][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.01.29-15.44.09:764][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.09:764][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.01.29-15.44.09:771][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2024.01.29-15.44.09:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2024.01.29-15.44.09:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2024.01.29-15.44.09:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2024.01.29-15.44.09:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2024.01.29-15.44.09:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2024.01.29-15.44.09:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2024.01.29-15.44.09:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2024.01.29-15.44.09:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2024.01.29-15.44.09:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2024.01.29-15.44.09:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2024.01.29-15.44.09:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2024.01.29-15.44.09:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Collapse01.uasset"
+[2024.01.29-15.44.09:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Collapse02.uasset"
+[2024.01.29-15.44.09:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2024.01.29-15.44.09:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Explosion01.uasset"
+[2024.01.29-15.44.09:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Explosion02.uasset"
+[2024.01.29-15.44.09:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2024.01.29-15.44.09:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Fire01.uasset"
+[2024.01.29-15.44.09:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2024.01.29-15.44.09:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2024.01.29-15.44.09:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2024.01.29-15.44.09:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Light01.uasset"
+[2024.01.29-15.44.09:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2024.01.29-15.44.09:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Light02.uasset"
+[2024.01.29-15.44.09:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2024.01.29-15.44.09:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Smoke01.uasset"
+[2024.01.29-15.44.09:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2024.01.29-15.44.09:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2024.01.29-15.44.09:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2024.01.29-15.44.09:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2024.01.29-15.44.09:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2024.01.29-15.44.09:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2024.01.29-15.44.09:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2024.01.29-15.44.09:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Steam01.uasset"
+[2024.01.29-15.44.09:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2024.01.29-15.44.09:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2024.01.29-15.44.09:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2024.01.29-15.44.09:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2024.01.29-15.44.09:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2024.01.29-15.44.09:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2024.01.29-15.44.09:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2024.01.29-15.44.09:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2024.01.29-15.44.09:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2024.01.29-15.44.09:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2024.01.29-15.44.09:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2024.01.29-15.44.09:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2024.01.29-15.44.09:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2024.01.29-15.44.09:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2024.01.29-15.44.09:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2024.01.29-15.44.09:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2024.01.29-15.44.09:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2024.01.29-15.44.09:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2024.01.29-15.44.09:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2024.01.29-15.44.09:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2024.01.29-15.44.10:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Maps/Minimal_Default.umap"
+[2024.01.29-15.44.10:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2024.01.29-15.44.10:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Maps/StarterMap.umap"
+[2024.01.29-15.44.10:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2024.01.29-15.44.10:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2024.01.29-15.44.10:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2024.01.29-15.44.10:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2024.01.29-15.44.10:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2024.01.29-15.44.10:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2024.01.29-15.44.10:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2024.01.29-15.44.10:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2024.01.29-15.44.10:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2024.01.29-15.44.10:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2024.01.29-15.44.10:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2024.01.29-15.44.10:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2024.01.29-15.44.10:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2024.01.29-15.44.10:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2024.01.29-15.44.10:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2024.01.29-15.44.10:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2024.01.29-15.44.10:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2024.01.29-15.44.10:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2024.01.29-15.44.10:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Glass.uasset"
+[2024.01.29-15.44.10:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2024.01.29-15.44.10:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2024.01.29-15.44.10:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2024.01.29-15.44.10:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2024.01.29-15.44.10:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2024.01.29-15.44.10:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2024.01.29-15.44.10:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2024.01.29-15.44.10:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2024.01.29-15.44.10:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2024.01.29-15.44.10:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2024.01.29-15.44.10:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2024.01.29-15.44.10:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2024.01.29-15.44.10:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2024.01.29-15.44.10:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2024.01.29-15.44.10:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2024.01.29-15.44.10:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2024.01.29-15.44.10:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2024.01.29-15.44.10:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2024.01.29-15.44.10:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2024.01.29-15.44.10:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2024.01.29-15.44.10:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2024.01.29-15.44.10:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2024.01.29-15.44.10:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2024.01.29-15.44.10:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2024.01.29-15.44.10:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2024.01.29-15.44.10:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2024.01.29-15.44.10:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Particles/P_Explosion.uasset"
+[2024.01.29-15.44.10:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Particles/P_Fire.uasset"
+[2024.01.29-15.44.10:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Particles/P_Smoke.uasset"
+[2024.01.29-15.44.10:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Particles/P_Sparks.uasset"
+[2024.01.29-15.44.10:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2024.01.29-15.44.10:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2024.01.29-15.44.10:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2024.01.29-15.44.10:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2024.01.29-15.44.10:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2024.01.29-15.44.10:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2024.01.29-15.44.10:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2024.01.29-15.44.10:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2024.01.29-15.44.10:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2024.01.29-15.44.10:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2024.01.29-15.44.10:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2024.01.29-15.44.10:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/MaterialSphere.uasset"
+[2024.01.29-15.44.10:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/SM_Bush.uasset"
+[2024.01.29-15.44.10:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/SM_Chair.uasset"
+[2024.01.29-15.44.10:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2024.01.29-15.44.10:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/SM_Couch.uasset"
+[2024.01.29-15.44.10:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/SM_Door.uasset"
+[2024.01.29-15.44.10:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2024.01.29-15.44.10:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2024.01.29-15.44.10:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2024.01.29-15.44.10:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2024.01.29-15.44.10:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2024.01.29-15.44.10:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2024.01.29-15.44.10:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2024.01.29-15.44.10:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/SM_Rock.uasset"
+[2024.01.29-15.44.10:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/SM_Shelf.uasset"
+[2024.01.29-15.44.10:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/SM_Stairs.uasset"
+[2024.01.29-15.44.10:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/SM_Statue.uasset"
+[2024.01.29-15.44.10:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/SM_TableRound.uasset"
+[2024.01.29-15.44.10:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2024.01.29-15.44.10:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2024.01.29-15.44.10:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2024.01.29-15.44.10:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2024.01.29-15.44.10:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2024.01.29-15.44.10:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2024.01.29-15.44.10:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2024.01.29-15.44.10:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2024.01.29-15.44.10:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2024.01.29-15.44.10:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2024.01.29-15.44.10:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2024.01.29-15.44.10:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2024.01.29-15.44.10:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2024.01.29-15.44.10:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2024.01.29-15.44.10:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2024.01.29-15.44.10:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2024.01.29-15.44.10:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2024.01.29-15.44.10:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2024.01.29-15.44.10:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2024.01.29-15.44.10:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2024.01.29-15.44.10:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2024.01.29-15.44.10:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2024.01.29-15.44.10:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2024.01.29-15.44.10:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2024.01.29-15.44.10:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2024.01.29-15.44.10:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2024.01.29-15.44.10:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2024.01.29-15.44.10:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2024.01.29-15.44.10:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2024.01.29-15.44.10:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2024.01.29-15.44.10:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2024.01.29-15.44.10:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2024.01.29-15.44.10:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2024.01.29-15.44.10:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2024.01.29-15.44.10:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2024.01.29-15.44.10:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2024.01.29-15.44.10:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2024.01.29-15.44.10:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2024.01.29-15.44.10:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2024.01.29-15.44.10:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2024.01.29-15.44.10:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2024.01.29-15.44.10:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2024.01.29-15.44.10:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2024.01.29-15.44.10:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2024.01.29-15.44.10:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2024.01.29-15.44.10:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2024.01.29-15.44.10:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2024.01.29-15.44.10:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2024.01.29-15.44.10:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2024.01.29-15.44.10:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2024.01.29-15.44.10:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2024.01.29-15.44.10:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2024.01.29-15.44.10:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2024.01.29-15.44.10:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2024.01.29-15.44.10:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2024.01.29-15.44.10:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2024.01.29-15.44.10:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2024.01.29-15.44.10:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2024.01.29-15.44.10:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2024.01.29-15.44.10:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2024.01.29-15.44.10:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2024.01.29-15.44.10:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2024.01.29-15.44.10:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2024.01.29-15.44.10:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2024.01.29-15.44.10:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2024.01.29-15.44.10:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2024.01.29-15.44.10:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2024.01.29-15.44.10:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2024.01.29-15.44.10:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2024.01.29-15.44.10:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2024.01.29-15.44.10:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2024.01.29-15.44.10:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Door_M.uasset"
+[2024.01.29-15.44.10:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Door_N.uasset"
+[2024.01.29-15.44.10:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2024.01.29-15.44.10:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2024.01.29-15.44.10:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2024.01.29-15.44.10:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2024.01.29-15.44.10:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2024.01.29-15.44.10:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2024.01.29-15.44.10:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2024.01.29-15.44.10:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2024.01.29-15.44.10:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2024.01.29-15.44.10:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2024.01.29-15.44.10:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2024.01.29-15.44.10:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2024.01.29-15.44.10:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2024.01.29-15.44.10:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2024.01.29-15.44.10:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2024.01.29-15.44.10:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2024.01.29-15.44.10:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2024.01.29-15.44.10:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2024.01.29-15.44.11:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2024.01.29-15.44.11:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2024.01.29-15.44.11:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2024.01.29-15.44.11:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2024.01.29-15.44.11:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2024.01.29-15.44.11:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2024.01.29-15.44.11:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2024.01.29-15.44.11:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2024.01.29-15.44.11:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2024.01.29-15.44.11:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2024.01.29-15.44.11:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2024.01.29-15.44.11:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2024.01.29-15.44.11:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2024.01.29-15.44.11:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2024.01.29-15.44.11:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2024.01.29-15.44.11:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2024.01.29-15.44.11:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2024.01.29-15.44.11:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2024.01.29-15.44.11:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2024.01.29-15.44.11:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2024.01.29-15.44.11:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2024.01.29-15.44.11:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2024.01.29-15.44.11:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2024.01.29-15.44.11:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2024.01.29-15.44.11:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2024.01.29-15.44.11:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2024.01.29-15.44.11:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2024.01.29-15.44.11:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2024.01.29-15.44.11:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2024.01.29-15.44.11:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2024.01.29-15.44.11:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2024.01.29-15.44.11:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2024.01.29-15.44.11:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2024.01.29-15.44.11:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Water_M.uasset"
+[2024.01.29-15.44.11:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Water_N.uasset"
+[2024.01.29-15.44.11:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2024.01.29-15.44.11:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2024.01.29-15.44.11:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2024.01.29-15.44.11:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2024.01.29-15.44.11:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2024.01.29-15.44.11:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2024.01.29-15.44.11:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2024.01.29-15.44.11:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2024.01.29-15.44.11:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2024.01.29-15.44.11:720][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2024.01.29-15.44.11:889][  0]LogSavePackage: Moving '../../../../../Users/50037667/Documents/School Work/Unit 15/School/Saved/Floor_400x400C24DA5B44A2ED6E058778FAE6DA3D2A6.tmp' to '../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2024.01.29-15.44.11:891][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2024.01.29-15.44.11:892][  0]Cmd: MAP LOAD FILE="../../../../../Users/50037667/Documents/School Work/Unit 15/School/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.01.29-15.44.11:892][  0]LightingResults: New page: Lighting Build
+[2024.01.29-15.44.11:893][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.01.29-15.44.11:894][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.29-15.44.11:894][  0]MapCheck: New page: Map Check
+[2024.01.29-15.44.11:894][  0]LightingResults: New page: Lighting Build
+[2024.01.29-15.44.11:897][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.29-15.44.11:899][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.01.29-15.44.11:995][  0]LogAudio: Display: Audio Device (ID: 1) registered with world '2DSideScrollerExampleMap'.
+[2024.01.29-15.44.11:995][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2024.01.29-15.44.11:998][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.29-15.44.12:004][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.01.29-15.44.12:005][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.29-15.44.12:006][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.19ms to complete.
+[2024.01.29-15.44.12:006][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.114
+[2024.01.29-15.44.12:008][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.043
+[2024.01.29-15.44.12:123][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.29-15.44.12:126][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.29-15.44.12:130][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.29-15.44.12:133][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.29-15.44.12:148][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0068 seconds. Added 3822 classes and 928 folders.
+[2024.01.29-15.44.12:150][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.01.29-15.44.12:154][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.01.29-15.44.12:154][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:154][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.01.29-15.44.12:154][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:154][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2024.01.29-15.44.12:154][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2024.01.29-15.44.12:155][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.01.29-15.44.12:155][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:155][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.01.29-15.44.12:155][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:155][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2024.01.29-15.44.12:155][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2024.01.29-15.44.12:156][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2024.01.29-15.44.12:156][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:156][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2024.01.29-15.44.12:156][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:156][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2024.01.29-15.44.12:156][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2024.01.29-15.44.12:157][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.01.29-15.44.12:157][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:157][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.01.29-15.44.12:157][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:157][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/StarterContent.upack)
+[2024.01.29-15.44.12:157][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2024.01.29-15.44.12:158][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.01.29-15.44.12:158][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:158][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.01.29-15.44.12:158][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:158][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2024.01.29-15.44.12:158][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2024.01.29-15.44.12:159][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.01.29-15.44.12:159][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:159][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.01.29-15.44.12:159][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:159][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2024.01.29-15.44.12:159][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.01.29-15.44.12:160][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.01.29-15.44.12:160][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:160][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.01.29-15.44.12:160][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:160][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2024.01.29-15.44.12:160][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2024.01.29-15.44.12:161][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.01.29-15.44.12:161][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:161][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.01.29-15.44.12:161][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:161][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2024.01.29-15.44.12:161][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.01.29-15.44.12:162][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.01.29-15.44.12:162][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:162][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.01.29-15.44.12:162][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:162][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2024.01.29-15.44.12:162][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.01.29-15.44.12:163][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.01.29-15.44.12:163][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:163][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.01.29-15.44.12:163][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:163][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2024.01.29-15.44.12:163][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.01.29-15.44.12:164][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.01.29-15.44.12:164][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:164][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.01.29-15.44.12:164][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:164][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2024.01.29-15.44.12:164][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.01.29-15.44.12:165][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.01.29-15.44.12:165][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:165][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.01.29-15.44.12:165][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:165][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2024.01.29-15.44.12:165][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.01.29-15.44.12:166][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.01.29-15.44.12:166][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:166][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.01.29-15.44.12:166][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:166][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2024.01.29-15.44.12:166][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.01.29-15.44.12:167][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.01.29-15.44.12:167][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:167][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.01.29-15.44.12:167][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:167][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2024.01.29-15.44.12:167][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2024.01.29-15.44.12:168][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.01.29-15.44.12:168][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:168][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.01.29-15.44.12:168][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:168][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2024.01.29-15.44.12:168][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.01.29-15.44.12:169][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.01.29-15.44.12:169][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:169][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.01.29-15.44.12:169][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:169][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2024.01.29-15.44.12:169][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2024.01.29-15.44.12:170][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.01.29-15.44.12:170][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:170][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.01.29-15.44.12:170][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:170][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2024.01.29-15.44.12:170][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.01.29-15.44.12:171][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.01.29-15.44.12:171][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:171][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.01.29-15.44.12:171][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:171][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2024.01.29-15.44.12:171][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2024.01.29-15.44.12:172][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.01.29-15.44.12:172][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:172][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.01.29-15.44.12:172][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:172][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2024.01.29-15.44.12:172][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.01.29-15.44.12:173][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.01.29-15.44.12:173][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:173][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.01.29-15.44.12:173][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:173][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2024.01.29-15.44.12:173][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.01.29-15.44.12:175][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.01.29-15.44.12:175][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:175][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.01.29-15.44.12:175][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:175][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2024.01.29-15.44.12:175][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2024.01.29-15.44.12:176][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.01.29-15.44.12:176][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:176][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.01.29-15.44.12:176][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:176][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2024.01.29-15.44.12:176][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.01.29-15.44.12:177][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2024.01.29-15.44.12:177][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:177][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2024.01.29-15.44.12:177][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:177][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2024.01.29-15.44.12:177][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2024.01.29-15.44.12:178][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.01.29-15.44.12:178][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:178][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.01.29-15.44.12:178][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:178][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2024.01.29-15.44.12:178][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.01.29-15.44.12:179][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.01.29-15.44.12:179][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:179][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.01.29-15.44.12:179][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:179][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2024.01.29-15.44.12:179][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2024.01.29-15.44.12:180][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.01.29-15.44.12:180][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.01.29-15.44.12:180][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.01.29-15.44.12:180][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.01.29-15.44.12:180][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2024.01.29-15.44.12:180][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2024.01.29-15.44.12:232][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.01.29-15.44.12:233][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2024.01.29-15.44.12:342][  0]LogSlate: Took 0.000699 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.01.29-15.44.12:343][  0]LogSlate: Took 0.000519 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.01.29-15.44.12:344][  0]LogSlate: Took 0.000550 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.01.29-15.44.12:392][  0]LogRenderer: Reallocating scene render targets to support 1100x592 Format 10 NumSamples 1 (Frame:1).
+[2024.01.29-15.44.12:421][  0]LogSlate: Took 0.000731 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.29-15.44.12:508][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.01.29-15.44.12:508][  0]LogLoad: (Engine Initialization) Total time: 13.54 seconds
+[2024.01.29-15.44.12:508][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.01.29-15.44.12:524][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2024.01.29-15.44.12:524][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2024.01.29-15.44.12:543][  0]LogAssetRegistry: Asset discovery search completed in 9.4510 seconds
+[2024.01.29-15.44.12:552][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2024.01.29-15.44.12:661][  0]LogContentStreaming: Texture pool size now 1000 MB
