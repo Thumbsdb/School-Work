@@ -88,26 +88,22 @@ it is a 2D player duhh
 The colour palette is going to be bright eye catching colours for the  
 
 \subsubsection{text styles}
-The text styles is 
 
 \subsubsection{sound}
-The sound for the game is basic as can be and will be kept to minium
 
 \subsubsection{stage/scene}
 
-
 \subsubsection{actions}
-Actions that will be done are fighting enimes and 
 
+\subsection{Character generation}
+\subsubsection{bitmaps}
+
+\subsubsection{wire frame}
 
 \section{P4 Produce a logic structure for the identified game concept}
 include diagrams to give evidence about the structure for the game. Give clear definition of objectives of the game. Flow chart showing the flow of the game through single or multiple layers with single or multiple players.
 
 Include visualisation or written planetary designs or a combination of both and including alternatives, together with diagrams such as flowcharts.
-
-
-
-
 
 
 \section{M2 Prepare alternative interface designs for the identified game concept}
