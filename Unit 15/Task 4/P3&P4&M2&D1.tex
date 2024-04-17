@@ -1,7 +1,8 @@
 \documentclass{article}
 
 \usepackage{graphicx}
-
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric, arrows} 
 \usepackage{hyperref}
 \hypersetup{
     colorlinks=true,
@@ -19,6 +20,13 @@
  left=20mm,
  top=20mm,
  }
+
+%flowchart
+\tikzstyle{startstop} = [rectangle, rounded corners, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=red!30]
+\tikzstyle{io} = [trapezium, trapezium left angle=70, trapezium right angle=110, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=blue!30]
+\tikzstyle{process} = [rectangle, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=orange!30]
+\tikzstyle{decision} = [diamond, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=green!30]
+\tikzstyle{arrow} = [thick,->,>=stealth]
 
 \title{Unit 15 LO2}
 \author{Chris}
@@ -97,7 +105,7 @@ The colour palette is going to be bright eye catching colours for the
 The text styles is 
 
 \subsubsection{sound}
-The sound for the game is basic as can be and will be kept to minium
+The sound for the game is basic as can be and will be kept to minium since they are uneccessery and execpt the game to be muted when playing since it will be on a phone
 
 \subsubsection{stage/scene}
 
@@ -107,6 +115,10 @@ Actions that will be done are fighting enimes and
 
 
 \section{P4 Produce a logic structure for the identified game concept}
+\begin{tikzpicture}[node distan
+
+
+
 include diagrams to give evidence about the structure for the game. Give clear definition of objectives of the game. Flow chart showing the flow of the game through single or multiple layers with single or multiple players.
 
 Include visualisation or written planetary designs or a combination of both and including alternatives, together with diagrams such as flowcharts.
