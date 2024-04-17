@@ -125,12 +125,24 @@ Actions that will be done are fighting enimes and
 
 
 \section{P4 Produce a logic structure for the identified game concept}
-\begin{tikzpicture}[align=center,node distance=2cm]
+\begin{tikzpicture}[node distance=2cm]
+	\node (start) [startstop] {Game Open};
+	\node (proc1) [process, below of=start] {Player is spawned and platforms start moving};
+	\node (in1) [io, below of=proc1] {Player is moving};
+	\node (dec1) [decision, below of=in1, yshift=-0.5cm] {Decision 1};
+	\node (proc2a) [process, below of=dec1, yshift=-0.5cm] {Process 2a};
+	\node (proc2b) [process, right of=dec1, xshift=2cm] {Process 2b};
+	\node (out1) [io, below of=proc2a] {Player is dead};
+	\node (stop) [startstop, below of=out1] {Stop};
+	\draw [arrow] (start) -- (proc1);
+	\draw [arrow] (proc1) -- (in1);
+	\draw [arrow] (in1) -- (dec1);
+	\draw [arrow] (dec1) -- node[anchor=east] {yes} (proc2a);
+	\draw [arrow] (dec1) -- node[anchor=south] {no} (proc2b);
+	\draw [arrow] (proc2a) -- (out1);
+	\draw [arrow] (out1) -- (stop);
+	
 \end{tikzpicture}
-
-
-
-
 
 include diagrams to give evidence about the structure for the game. Give clear definition of objectives of the game. Flow chart showing the flow of the game through single or multiple layers with single or multiple players.
 
