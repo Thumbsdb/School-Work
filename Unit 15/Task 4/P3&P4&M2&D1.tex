@@ -101,13 +101,13 @@ The Layout out of each levels is going to be designed to promoted a
 The colour palette is going to be bright eye catching colours for the  
 
 \subsubsection{text styles}
-The text styles is 
+The text style for the game is going to cartoony style to entise our target audience to click and download our clients game. 
 
 \subsubsection{sound}
 The sound for the game is basic as can be and will be kept to minium since they are uneccessery and execpt the game to be muted when playing since it will be on a phone
 
 \subsubsection{stage/scene}
-
+Stage in the game is going ot simplre and 
 
 \subsubsection{actions}
 Actions that will be done are fighting enimes and 
@@ -116,23 +116,24 @@ Actions that will be done are fighting enimes and
 \section{P4 Produce a logic structure for the identified game concept}
 \begin{tikzpicture}[node distance=2cm]
 	\node (start) [startstop] {Game Open};
-		\draw [arrow] (start) -- (proc1);
 	\node (proc1) [process, below of=start] {Player is spawned and platforms start moving};
-		\draw [arrow] (proc1) -- (in1);
+		\draw [arrow] (start) -- (proc1);
 	\node (in1) [io, below of=proc1] {Player is moving};
-		\draw [arrow] (in1) -- (dec1);
+		\draw [arrow] (proc1) -- (in1);
 	\node (dec1) [decision, below of=in1, yshift=-0.5cm] {Player Hits Crate};
-		\draw [arrow] (dec1) -- node[anchor=east] {no} (proc2a);
-		\draw [arrow] (dec1) -- node[anchor=south] {yes} (proc2b);
+		\draw [arrow] (in1) -- (dec1);
 	\node (proc2a) [process, below of=dec1, yshift=-0.5cm] {Player misses};
+		\draw [arrow] (dec1) -- node[anchor=east] {no} (proc2a);
 	\node (proc2b) [process, right of=dec1, xshift=2cm] {Player dies};
+		\draw [arrow] (dec1) -- node[anchor=south] {yes} (proc2b);
 	\node (proc3) [process, below of=proc2a] {Player is moving};
 	\node (dec2) [decision, below of=proc3,yshift=-0.5cm] {Player hits the level end};
 	\node (proc3a) [process, right of=dec2, xshift=2cm] {stuff};
 	\node (proc3b) [process, below of=dec2, yshift=-0.5cm] {stuff};
-	\node (out1) [io, below of=proc2a] {Player is dead};
-		\draw [arrow] (out1) -- (stop);
+
+	\node (out1) [io, below of=proc3b] {Player is dead};
 	\node (stop) [startstop, below of=out1] {Stop};
+		\draw [arrow] (out1) -- (stop);
 	
 \end{tikzpicture}
 
@@ -146,6 +147,7 @@ Include visualisation or written planetary designs or a combination of both and 
 
 
 \section{M2 Prepare alternative interface designs for the identified game concept}
+Alternative interface designs is a hudless design. This done by having these elements intergrated into the world for the health,score and timers. The hud can be easily show in the game world by having visual signs to the uaser, this can be done by having a bars or having the player charater getting more visually hurt. The score system can be shown either by charater looks "increasing"
 Prepare alternative interface designs to the one identified in P3. The alternative designs must contain enough detail to enable them to be understood by a third party. Evidence can be extension of P3 and be presented as additional visualisations or written explanatory designs, or a combination of both.
 
 
