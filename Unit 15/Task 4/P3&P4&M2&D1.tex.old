@@ -87,7 +87,7 @@ Talking about various sounds found in a particular game, those could be generali
 Their will be 5 levels in our game and all of them are going to themed after our clients food. Each level is unique and different from each other 
 
 \subsubsection{enemies}
-The eniemes of the game will be small and easy to hit since this game is designed for kids and young teens. The height of these mobs will be half height of the player character. We do this because it makes it easier for our target audience to understand our game and theconcepts to the gamer. 
+The eniemes of the game will be small and easy to hit since this game is designed for kids and young teens. The height of these mobs will be half height of the player character 
 
 
 \subsubsection{problem solving}
@@ -95,7 +95,7 @@ The is small amount of problem solving in our game because we are 2D platformer 
 
 \subsection{Interface design}
 \subsubsection{layout}
-The Layout out of each levels is going to be designed to promoted a 
+it is a 2D player duhh
 
 \subsubsection{colour palette}
 The colour palette is going to be bright eye catching colours for the  
@@ -116,23 +116,20 @@ Actions that will be done are fighting enimes and
 \section{P4 Produce a logic structure for the identified game concept}
 \begin{tikzpicture}[node distance=2cm]
 	\node (start) [startstop] {Game Open};
-		\draw [arrow] (start) -- (proc1);
 	\node (proc1) [process, below of=start] {Player is spawned and platforms start moving};
-		\draw [arrow] (proc1) -- (in1);
 	\node (in1) [io, below of=proc1] {Player is moving};
-		\draw [arrow] (in1) -- (dec1);
-	\node (dec1) [decision, below of=in1, yshift=-0.5cm] {Player Hits Crate};
-		\draw [arrow] (dec1) -- node[anchor=east] {no} (proc2a);
-		\draw [arrow] (dec1) -- node[anchor=south] {yes} (proc2b);
-	\node (proc2a) [process, below of=dec1, yshift=-0.5cm] {Player misses};
-	\node (proc2b) [process, right of=dec1, xshift=2cm] {Player dies};
-	\node (proc3) [process, below of=proc2a] {Player is moving};
-	\node (dec2) [decision, below of=proc3,yshift=-0.5cm] {Player hits the level end};
-	\node (proc3a) [process, right of=dec2, xshift=2cm] {stuff};
-	\node (proc3b) [process, below of=dec2, yshift=-0.5cm] {stuff};
+	\node (dec1) [decision, below of=in1, yshift=-0.5cm] {Decision 1};
+	\node (proc2a) [process, below of=dec1, yshift=-0.5cm] {Process 2a};
+	\node (proc2b) [process, right of=dec1, xshift=2cm] {Process 2b};
 	\node (out1) [io, below of=proc2a] {Player is dead};
-		\draw [arrow] (out1) -- (stop);
 	\node (stop) [startstop, below of=out1] {Stop};
+	\draw [arrow] (start) -- (proc1);
+	\draw [arrow] (proc1) -- (in1);
+	\draw [arrow] (in1) -- (dec1);
+	\draw [arrow] (dec1) -- node[anchor=east] {yes} (proc2a);
+	\draw [arrow] (dec1) -- node[anchor=south] {no} (proc2b);
+	\draw [arrow] (proc2a) -- (out1);
+	\draw [arrow] (out1) -- (stop);
 	
 \end{tikzpicture}
 
