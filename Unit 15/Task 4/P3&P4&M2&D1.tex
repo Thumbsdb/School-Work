@@ -1,6 +1,8 @@
 \documentclass{article}
 
 \usepackage{graphicx}
+\graphicspath{ {./images/} }
+
 \usepackage{tikz}
 \usetikzlibrary{shapes.geometric, arrows} 
 \usepackage{hyperref}
@@ -60,12 +62,12 @@ In this game the scoring will be based upon the collection of sweets that our cl
 \subsubsection{Movement}
 Moving a character is so common in games that players and designers often take it for granted. However, while it can be tempting to use the default movement options in a game engine, designing great movement can make simply controlling a character fun. 
 Movement of the character in this game should be verty straightfoward, as this is a traditional 2D platformer the main character will need to
-/begin{itemize}
-/item Move left
-/item Move right
-/item Jump
-/item Duck / Hide
-/end{itemize}
+\begin{itemize}
+\item Move left
+\item Move right
+\item Jump
+\item Duck / Hide
+\end{itemize}
 
 It would be easy to add other actions such as adding combos that build up actions like Mortal Kombat or Super Smash Brothers but as the remit for this game is something which is familar we will stick with the basic movements for the first demo to the customer.
 
@@ -112,13 +114,13 @@ The Layout out of each levels is going to be designed to promoted a
 The colour palette is going to be bright eye catching colours for the  
 
 \subsubsection{Text Styles}
-The text styles is 
+The text style for the game is going to cartoony style to entise our target audience to click and download our clients game. 
 
 \subsubsection{Sound}
 The sound for the game is basic as can be and will be kept to minium since they are uneccessery and execpt the game to be muted when playing since it will be on a phone
 
 \subsubsection{Stage/Scene}
-
+Stage in the game is going ot simplre and 
 
 \subsubsection{Actions}
 Actions that will be done are fighting enimes and 
@@ -127,23 +129,24 @@ Actions that will be done are fighting enimes and
 \section{P4 Produce a logic structure for the identified game concept}
 \begin{tikzpicture}[node distance=2cm]
 	\node (start) [startstop] {Game Open};
-		\draw [arrow] (start) -- (proc1);
 	\node (proc1) [process, below of=start] {Player is spawned and platforms start moving};
-		\draw [arrow] (proc1) -- (in1);
+		\draw [arrow] (start) -- (proc1);
 	\node (in1) [io, below of=proc1] {Player is moving};
-		\draw [arrow] (in1) -- (dec1);
+		\draw [arrow] (proc1) -- (in1);
 	\node (dec1) [decision, below of=in1, yshift=-0.5cm] {Player Hits Crate};
-		\draw [arrow] (dec1) -- node[anchor=east] {no} (proc2a);
-		\draw [arrow] (dec1) -- node[anchor=south] {yes} (proc2b);
+		\draw [arrow] (in1) -- (dec1);
 	\node (proc2a) [process, below of=dec1, yshift=-0.5cm] {Player misses};
+		\draw [arrow] (dec1) -- node[anchor=east] {no} (proc2a);
 	\node (proc2b) [process, right of=dec1, xshift=2cm] {Player dies};
+		\draw [arrow] (dec1) -- node[anchor=south] {yes} (proc2b);
 	\node (proc3) [process, below of=proc2a] {Player is moving};
 	\node (dec2) [decision, below of=proc3,yshift=-0.5cm] {Player hits the level end};
 	\node (proc3a) [process, right of=dec2, xshift=2cm] {stuff};
 	\node (proc3b) [process, below of=dec2, yshift=-0.5cm] {stuff};
-	\node (out1) [io, below of=proc2a] {Player is dead};
-		\draw [arrow] (out1) -- (stop);
+
+	\node (out1) [io, below of=proc3b] {Player is dead};
 	\node (stop) [startstop, below of=out1] {Stop};
+		\draw [arrow] (out1) -- (stop);
 	
 \end{tikzpicture}
 
@@ -157,9 +160,19 @@ Include visualisation or written planetary designs or a combination of both and 
 
 
 \section{M2 Prepare alternative interface designs for the identified game concept}
+Alternative interface designs is a hudless design. This done by having these elements intergrated into the world for the health,score and timers. The hud can be easily show in the game world by having visual signs to the uaser, this can be done by having a bars or having the player charater getting more visually hurt. The score system can be shown either by charater looks "increasing"
 Prepare alternative interface designs to the one identified in P3. The alternative designs must contain enough detail to enable them to be understood by a third party. Evidence can be extension of P3 and be presented as additional visualisations or written explanatory designs, or a combination of both.
 
 
+\subsection{ Sprites Looks and Feel }
+As we are developing a 2D platformer, we want to keep with a retro theme. We have an option to be authentic to 80s sprites, which would mean keeping the edges sharp, using a much smaller colour palette and the resolution would be low.
+This is somewhat tempting as it would look like it would be keeping with the theme of making the game look familiar, but when you actually look at any examples of sprites from that era, they tend to look what can only be described as low-res and rough.
+
+\includegraphics[scale=0.5]{TraditionalSprite}
+
+As retro games became more popular, over the last decade or so, a sort of hybrid of old and new styles have become more popular, and in keeping with the remit of developing something which is familar, we are going to go with the more modern retro look sprites.
+
+\includegraphics[scale=0.5]{SoftSprite}
 
 
 \section{D1 Justify the design rational for the identified game concept}
@@ -195,6 +208,9 @@ Slightly more modern games such as Super Mario Brothers are much more well known
  
 \subsection{ The UX must not be confusing }
 Making the user interface experience not be confusing also partially ties in to the requirement that the game must be familiar. It however goes furhter than that. We have decdided to use standard controls, as these are well known and very simple it means that this part of the game should be intuitive.
+2D platforms usually have a retro 'language' or 'theme'. They are usually blocky but not blocky in the way that 80s sprites would have been but more blockly in the same sort of style as Minecraft, with softer edges and corners. This was one of the considerations in M2, should the sprites look hard oor soft. The harder version of sprites are not very popular and would likely put players off, so we went with a more fashionable softer look.
+
+
 
 \subsection{ Must work on all devices }
 \subsection{ Must be appealing to a younger audience }
