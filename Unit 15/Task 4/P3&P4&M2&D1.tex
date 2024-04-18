@@ -221,21 +221,37 @@ Making the user interface experience not be confusing also partially ties in to 
 This requirment is self evident in todays market. As most players / clients will be accessing the internet on many different devices, we are left with no other option than to ensure that our game will at the very least work on the major devices.
 The mobile market has become the dominant device when it comes to accessing the internet, though the lowly PC is still not far behind \url{https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet}
 
-\includegraphics[scale=0.5]{MobileVsPC}
+\includegraphics[scale=0.35]{MobileVsPC}
 
 This means we will have to develop for multiple platoforms. This may mean relying on a games engine or developing everything natively. Either way we will need to test on all relevant platforms, and on multiple mobile phones and PC browsers, to make sure that the majority of customers have a good experience. This will not be cheap but the alternative is a bad experience for a lot of customers.
 
 \subsection{ Must be appealing to a younger audience }
+\subsection{ Players must have seen the likes of the game before }
 The requirement that the game must be appealing to a younger audience was driven by the client, this is something that has tied in to what our sprite look like and the conecpt that it must be easy to pickup and play the game.
 We are not able top make the assumption that younger game players will have experience with older 2D platformer mechanics, so we have had to investigate the character handling in the likes of Minecraft and more recent Mario games. It turns out that the basic concept of moving in one direction by pressing one key is pretty universal. A key for jumping also seems universal as well so it would seem that we can make assumptions on how to control the character.
 The game play of going from a starting point to and end point and then starting a new level is ubiquitous in Mario games so we felt that we could rely on this mechanic as Mario and Nintendo are arguably the largest video game company at the moment.
 
-\subsection{ Players must have seen the likes of the game before }
 \subsection{ It must be small in scale, there will only be five levels }
+It can be very tempting to 'Burn the ocean' as in to try and make a massive world of content that covers everything you or your players can think of. As a part of our remit we were given the opposite requirement, our client wanted us to keep the game small. Their reasoning for this was that they wanted to keep the game simple and fun and also for it to load quickly for players.
+This meant that we had two requirements. One was that the amount of time to complete the game had to be limited, but also that all the assets had to remain quite small so that the same would start quickly from a clean start on a browser or mobile phone. In keeping with the theme of developing something that was familiar, we went for a side scrolling 2D platformer in the style of the original Mario Bros. This then very heavily lends itself to the concept of levels. Levels have the advantage that it is then possible to record the leve that a user has gotten to in the browser, meaning that the game is a lot more casual and appealing to people who progress in the game but do not want to spend a lot of time in each session so that they can have a breather.
+
+The concept of keeping the game short and only to five levels is not as restricting as first thought. It could also be possible to add in speed runs, which are a popular gaming mode. In this mode the person who can complete the game in the shortest amount of time is the winner. We could keep a high score table of the fastest runs, though this is all speculative.
+
 \subsection{ It must be engaging }
+Engaging is a far reaching term. The only real way we can tell if a game is engaging is to play test it. To that end we will be play testing iterations of our game, section by section and gathering all the metrics we can about player satisfaction. This is a deliberate choice as a part of our design decisions. Through extensive development of games we have found that it is impossible to perfectly predict what players will and will not enjoy. In face game play mechanics which we love in house can turn out be a complete flop while the smallest features such as a mini power up can excite users. Play testing allows us to discover the small things that players enjoy and build on those instead of spending all our time developing a game which flops the first time a player tries it out.
+
 \subsection{ It will have the clients food products }
+This is a fundamental part of the customers requirements. The use of their food is the cornerstone of this game.
+Most importantly the food items need to be seen in a positive way, and not used for negative purposes such as killing monsters or even subtler things such as standing on them to get to a higher stage as standing on food could be seen as unhygenic. 
+The main aim of the game is to get to the end with the highest possible score. As gaining score is the desired positive outcome we then decided that the collection of the customer's food is what would increase your score.
+
 \subsection{ It will have monsters that must be defeated }
+A platformer which is a straight race to the end of the level would be very boring. We need to build in some sense of excitement and danger. The easiest and most familar way to do that is to bring in monsters that block your character's way. These monsters could take any form, other ninjas, random objects, blobs, etc. It was felt that we should keep the elements of the game familiar so the design of the monsters was left as small hairy non-descript beings. 
+We do not want to introduce the idea that the corporate ninja would fire objects as this could be seen as a negative trait e.g. using projectiles to kill things. Instead we stuck rigidly with the familiar concept of jumping on top of monsters to decapacitate them. Doing this adds an element of risk and skill but does not make the game grotesque.
+
 \subsection{ It will educate players about the variety of foods, highlighting their unique qualities }
+This proved to one of the hardest elements to introduce to the game.
+
 \subsection{ Health boosts should be in the game based on their food products }
 \subsection{ As the player progresses through the levels, each level will become harder }
 \subsection{ There will be obstacles in the players way which must an navigated around. These should present moderately hard puzzles }
