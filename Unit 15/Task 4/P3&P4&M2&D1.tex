@@ -120,20 +120,27 @@ Actions that will be done are fighting enimes and
 		\draw [arrow] (start) -- (proc1);
 	\node (in1) [io, below of=proc1] {Player is moving};
 		\draw [arrow] (proc1) -- (in1);
+		
 	\node (dec1) [decision, below of=in1, yshift=-0.5cm] {Player Hits Crate};
 		\draw [arrow] (in1) -- (dec1);
-	\node (proc2a) [process, below of=dec1, yshift=-0.5cm] {Player misses};
-		\draw [arrow] (dec1) -- node[anchor=east] {no} (proc2a);
+		
 	\node (proc2b) [process, right of=dec1, xshift=2cm] {Player dies};
 		\draw [arrow] (dec1) -- node[anchor=south] {yes} (proc2b);
-	\node (proc3) [process, below of=proc2a] {Player is moving};
-	\node (dec2) [decision, below of=proc3,yshift=-0.5cm] {Player hits the level end};
-	\node (proc3a) [process, right of=dec2, xshift=2cm] {stuff};
-	\node (proc3b) [process, below of=dec2, yshift=-0.5cm] {stuff};
+		
+	\node (dec2) [decision, below of=dec1, yshift=-1cm] {Level end};
+		\draw [arrow] (dec1) -- node[anchor=east] {no} (dec2);
+	\node (proc3b) [process, below of=dec2, yshift=-1cm] {Continue playing current level};
+		\draw [arrow] (dec2) -- node[anchor=east] {no} (proc3b);
+			
+	\node (proc3a) [process, right of=dec2, xshift=5cm] {Exit current level and move onto the next level};
+		\draw [arrow] (dec2) -- node[anchor=south] {no} (proc3a);
+	\node (stop1) [startstop, right of=proc3a] {Stop};
+		\draw [arrow] (proc3a) -- (stop1);
 
 	\node (out1) [io, below of=proc3b] {Player is dead};
-	\node (stop) [startstop, below of=out1] {Stop};
-		\draw [arrow] (out1) -- (stop);
+		\draw [arrow] (proc3b) -- (out1);
+	\node (stop2) [startstop, below of=out1] {Stop};
+		\draw [arrow] (out1) -- (stop2);
 	
 \end{tikzpicture}
 
