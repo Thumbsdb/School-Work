@@ -9,4 +9,16 @@
 *.fdb_latexmk
 *.fls
 *.synctex.gz
+*.4ct
+*.4tc
+*.css
+*.dvi
+*.html
+*.idv
+*.lg
+*.tmp
+*.xref
+*.docx
+.vscode
+
 
