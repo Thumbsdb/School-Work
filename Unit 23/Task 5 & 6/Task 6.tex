@@ -37,7 +37,7 @@ This is a fair point and may point us in a lucrative area of research.
 In the research paper Comparing Physician and Artificial Intelligence Chatbot Responses to Patient Questions Posted to a Public Social Media Forum\cite{bedside} one of the conclusions they came up with was that "a chatbot generated quality and empathetic responses to patient questions posed in an online forum" and "Further exploration of this technology is warranted in clinical settings, such as using chatbot to draft responses that physicians could then edit". In essence they are saying that the chatbot had a great bedside manner. This could lead us to thinking about using the chatbot as a therapist of some kind.
 
 
-\subsection{Bookings}
+\subsection{Bookings}\label{booking}
 One of the main uses of our chatbot was not just diagnosis but also possibly to make a booking to see GP. Looking in to chatbots that can make bookings we have found a plethora of businesses that have already been setup to do just this.\cite{futr}\cite{booking}\cite{velma} The example from booking.com is interesting as well as they mention "In September 2017, Finnair launched its first chatbot via Facebook Messenger. Nicknamed Finn, it can sell flights, calculate how much baggage a passenger can take and respond to questions." All of this is very advanced and shows that our chatbot could take on quite a lot.
 
 \subsection{Expanding on diagnosis}
@@ -58,7 +58,7 @@ This is not an exhaustive list, but from best to worst we have:
     \item Bot may remove certain jobs, and those employees may not be able to or unwilling to retrain
 \end{enumerate}
 
-\subsection{Bot can diagnose patient problems / Bot saves time for GP}
+\subsection{Bot can diagnose patient problems / Bot saves time for GP} \label{diagnose}
 
 This is very much the highlight of our chat bot. The act of diagnosis is an act that can be replicated and reused in other domains. 
 The usual flow when diagnosing issues would be a bit like this.
@@ -71,11 +71,38 @@ This is an iterative approach where the chatbot asks more questions until it can
 This action is very much like a basic receptionist job. It is easy to automate repetitive and well defined action such as setting up a meeting or requesting a repeat prescription, and this can also shorten waiting times for customers as they are dealt with quickly and will never be in the queue infront of other customers. This ties in very well with the booking prior art we saw previously. Arguably as this is so simple and it seems like there are many other companies already doing this, that it is already a crowded market and if we were to repurpose our chatbot to automate these admin tasks then we would need to find something more advanced or more niche to be of any use.
 
 \subsection{Bot can be empathetic / Bot may be seen as soulless}
-This was a concern that we had when we made the case for our chatbot, but as we have seen it turns out that chatbots by their very nature come across as very empathetic \cite{bedside}. Having a chatbot that not only understands patients medical needs but seems empathetic and by it's very nature has infinite patience lends itself to areas such a therapy and psychology. There is a danger in using a chatbot this way in that it could create a very personal relationship with a patient and if not monitored then it could lead to unexpected and worrying places. However with the correct monitoring in place, it could be a very powerful tool, especially as it it extremely hard for people to get help with mental health issues on the NSH due to a lack of professionals. 
+This was a concern that we had when we made the case for our chatbot, but as we have seen it turns out that chatbots by their very nature come across as very empathetic \cite{bedside}. Having a chatbot that not only understands patients medical needs but seems empathetic and by it's very nature has infinite patience lends itself to areas such a therapy and psychology. There is a danger in using a chatbot this way in that it could create a very personal relationship with a patient and if not monitored then it could lead to unexpected and worrying places. However with the correct monitoring in place, it could be a very powerful tool, especially as it it extremely hard for people to get help with mental health issues on the NHS due to a lack of professionals. 
 
 \subsection{Bot may make incorrect diagnosis and as such needs to be monitored / Bot may remove certain jobs, and those employees may not be able to or unwilling to retrain}
 These were two weaknesses that sort of self correct each other. They are not strictly to do with repurposing the technology but more to do with repurposing people. As we have seen previously and in the section on therapy bots, these bots still need to be monitored. As certain jobs are being done away with due to technology, new opportunities arise from the technology and with some retraining, it would be quite easy to fill those jobs with the ones that have been lost.
 
+\section{Alternative business sectors}
+Based on our research above we are now in a place where we can make assertions about other business sectors and which features of our chatbot could be repurposed.
+
+\subsection{Engineering}
+Almost all engineering disciplines, be it car repair or maintenance on an oil rig, involve an element of problem solving, where engines and machines will malfunction. Based on the symptoms that an engineer is seeing, they need to determine what the actual fault is and how to repair that. This process mirrors the feature in our chat bot where a patient presents with a set of symptoms and the chatbot has to work out what is wrong with the patient. This is an iterative process as discussed in \ref{diagnose} and this process along with the AI processing capabilities could easily be repurposed to diagnose the root cause of issues in engineering disciplines such as:
+\begin{itemize}
+    \item Vehicle mechanics
+    \item Mega structures
+    \item Office electrical fitouts
+    \item Household plumbing and electrics
+    \item Ship building
+\end{itemize}
+\subsubsection{Feature used}
+The feature in question here is the one where a chatbot keeps asking questions to gain more details about a patients symptoms and get enough information to produce a diagnoses. This can be repurposed to any purpose in engineering where issues can arise that need someone to reconcile failure symptoms with the source of the failures. 
+It would mean that anywhere that this feature would be repurposed would need to be retrained in this technical area, but the process the AI goes through would stay the same.
+
+\subsection{Theatre bookings}
+As seen in section \ref{booking} "Finair launched its first chatbot ... it can sell flight" \cite{booking}. Our chatbot has the ability to make a booking with a GP. To be able to do this it needs knowledge of the free slots a GP has. This is basically the same as how Finair was able to sell flights with a chatbot. 
+\subsubsection{Feature used}
+Making bookings. If our chat bot can make a booking for a GP, then this could be repurposed in to making a booking for a Theatre, or even 
+\begin{itemize}
+    \item School plays
+    \item Bands
+    \item Cinema
+    \item Dog kennels
+\end{itemize}
+Basically anywhere a booking can be made, our chatbot can do it instead, and make it easy for a customer to work with the chatbot to reserve a date. The only thing that would need to change is that the chatbot would need to charge for tickets or timeslots, but that can be triggered from the actual calendar booking so the chatbot will not need to change.
+
 \bibliography{bibliography}
 \end{document}
-s
