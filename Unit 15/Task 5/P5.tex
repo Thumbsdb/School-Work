@@ -26,13 +26,9 @@
 \date{}
 \maketitle
  
+
+\begin{document}
 \section{Build \& test a prototype – P5}
-You are required to understand different ways that a prototype can be produced using bespoke
-software for game development.
-
-You are required to build a prototype for the game concept, whole demonstrating demonstrate
-these programming techniques: variables/constant
-
 \underline{strings} are traditionally a sequence of characters. How is it used in our games is in the 
 \underline{inputs} is any information or data sent to a computer for processing is considered input. Input or user input is sent to a computer using input device. 
 Input device examples
@@ -53,37 +49,33 @@ Output devices
 	\item Headphones
 \end{enumerate}
 The \underline{selection} available for our games is when you open up the game 
-\underline{iteration} the prototype is going to use iteration to make the game more to make the prototype more quickly and meet our clients requirements. iteration is the process by which a video game is repeatedly proposed, prototypes, play tested and reevaluated prior to working product release.
+\underline{iteration} the prototype is going to use iteration to make the game more to make the prototype more quickly and meet our clients requirements. Iteration is the process by which a video game is repeatedly proposed, prototypes, play tested and reevaluated prior to working product release.
 \underline{subroutines} is a collection of public static methods that makes it easier to manage conditional events and routines. 
 \underline{conditions} in our game we have many if statements and conditions for example when your die, you loss your life and the health bar is set to 0. Another condition is when the player enter the hit box of the trap 5 kunai will spawn in 5 directions and 
 \underline{counting} in our game we be using the counting to count how the score for our player.
 \underline{totalling} in our game is the scoreboard and this done by keeping an integer that increase every time the player gets an item. 
 In recent years, \underline{data structures} have shifted towards a data-oriented design that prioritizes high-performance computing. This approach is more attuned to CPU cache utilization and optimizes memory efficiency to fully leverage the capabilities of modern CPUs.
 
-
-
-
-
-
-
-Your prototype could be a particular level or module of the full game concept. Evidence of the
-prototype could be presented in the form of annotated screenshots or as a video of a working
-prototype, or the prototype itself.
-You are also required to plan and carry out testing of their prototype. Testing must be thorough
-enough to prove the prototype is functional and meets requirements. Classic testing techniques
-include:
-
-test plans
 \section{Test data}
-The test data for the game will be    
-\begin{enumerate}
-	\item Testing the hud
-	\item Testing the items work
-	\item Testing the levels that they can transfer
-	\item Collision works
-	\item Falling platform works
-	\item Moving platform
-\end{enumerate}
+\begin{center}
+	\begin{tabular}{|m{1em}|m{1em}|m{1em}|m{1em}|m{1em}|m{1em}|m{1em}|}
+	\hline
+		# & Test Case & Steps & Expected Result & Actual Result & P/F & Verified  \\
+	\hline
+		1 & When Players enters game and the character spawns & Open Unreal. Open folder when game is saved. Press play in top toolbar. Play level a few times to ensure main character can be controller & There is one character that can jump and move forward and backwards. & There is one character that can jump and move forward and backwards & *insert image* \\
+	\hline
+		2 & Jump animation applied when player jumps or falls off platform & Press space bar while playing game or use arrow keys to navigate player off edge of platform & 4 & 5 & 6 \\
+	\hline
+		3 & Running Animation applied when player moves left or right & Press left or right arrow key while playing game or & Move right & p & *image insert* \\
+	\hline
+		4 & Health pickup  & 3 & 4 & 5 & 6 \\
+	\hline
+		5 & Level changed & 3 & 4 & 5 & 6 \\
+	\hline
+		6 & Score Increase & 3 & 4 & 5 & 6 \\
+	\hline
+\end{tabular}
+\end{center}
 
 \section{Black box}
 The box testing takes advantage of extensive knowledge of an application’s internals to develop highly-targeted test cases. Examples of tests that might be performed during white box testing includeWhat is black box testing is a method of software testing that examines the functionality of an application without peering into its internal structures or workings. This method of test can be applied virtually to every level of software testing: unit, integration, system and acceptance. Black-box testing is also used as a method in penetration testing, where an ethical hacker simulates an external hacking or cyber warfare attack with no knowledge of the system being attacked. 
@@ -92,7 +84,7 @@ Black box testing involves testing a system with no prior knowledge of its inter
 
 Advantages of Black Box Testing
 
-The tester does not need to have more functional knowledge or programming skills to implement the Black Box Testing.jjjjjjjjjjj
+The tester does not need to have more functional knowledge or programming skills to implement the Black Box Testing.
 It is efficient for implementing the tests in the larger system.
 Tests are executed from the user’s or client’s point of view.
 Test cases are easily reproducible.
@@ -108,49 +100,33 @@ Some programs in the application are not tested.
 It does not reveal the errors in the control structure.
 Working with a large sample space of inputs can be exhaustive and consumes a lot of time.
 
-
-\begin{enumerate}
-	\item Moving
-	\item Player spawn
-	\item Falling player
-	\item 
-\end{enumerate}
-
-\begin{center}
-	\begin{tabular}{ | m{1em} | m{1em}| m{1em} | m{1em} | m{1em} | m{1em} | m{1em} | }
-	\hline
-		\# & Test Case & Steps & Expected Result & Actual Result5 & P/F & Verified  \\
-	\hline
-		1 & When Players enters game and the character spawns & Open Unreal. Open folder whn game is saved. Press play in top toolbar. Play level a few times to ensure main character can be controller & There is one character that can jump and move forward and backwards. & There is one character that can jump and move forward and backwards & *insert image* \\
-	\hline
-		2 & Jump animation applied when player jumps or falls off platform & Press spacebar while playing game or use arrow keys to navigate player off edge of platform & 4 & 5 & 6 \\
-	\hline
-		3 & Runing Animation apllied when player moves left or right & Press left or right arrow key while playing game or & Move right pog & p & *image insert* \\
-	\hline
-		4 & Health pickup  & 3 & 4 & 5 & 6 \\
-	\hline
-		5 & Level changed & 3 & 4 & 5 & 6 \\
-	\hline
-		6 & Score Increase & 3 & 4 & 5 & 6 \\
-	\hline
-\end{tabular}
-\end{center}
-
 \section{White box}
 White box testing takes advantage of extensive knowledge of an application's internals to develop highly-targeted test cases. Examples of tests that might be performed during white box testing include
 
+\begin{enumerate}
+	\item Path checking: White box testing enables the examination of different execution paths within an application to verify the accuracy, relevance, and effectiveness of all conditional statements.
+	\item Output Validation: This process lists the diverse potential inputs to a function and confirms that each one yields the anticipated outcome.
+	\item Security Testing: Static code analysis and additional white box testing methods are employed to pinpoint possible vulnerabilities within an application and verify its adherence to secure development standards.
+	\item Loop: Testing: Evaluates the loops in an application to confirm their accuracy, efficiency, and proper management of the variables in their scope 
+	\item Data Flow Testing: Monitors variables across a program's execution paths to verify that they are declared, initialized, utilized, and correctly manipulated.
+\end{enumerate}
+
+White box testing can be performed for few different purpose. The three types of white box testing are:
 \begin{enumerate}
 	\item Unit Testing
 	\item Integration Testing
 	\item Regression Testing
 \end{enumerate}
 
-\section{Alpha testing}
-\section{Beta testing}
+\section{Alpha}
+In this stage of game testing, the game remains under development, and parallel testing is conducted to ensure it is being developed without glitches and operates smoothly without crashing. Extensive documentation of hardware and software factors is required during this phase to integrate these elements effectively at earlier stages.
+
+\section{Beta}
+During beta testing, the game is nearly production-ready yet still has significant issues to resolve. In this phase, game testers are required to thoroughly explore all potential ways to break the game and identify any minor issues.
+
 \section{User testing}
-All this work must be in your own words \& provide a comprehensive record of the development
-and testing of your prototype.
-16
-It is important that you correctly reference all sources used, following appropriate conventions.
+User testing in game development refers to the process where actual users are invited to test the game in a stage close to it's release. The goal is to gather feedback on  the game's usability, functionality, and overall player experience. This helps developers understand how players interact with the game, identify any confusing elements, and assess the game's enjoyment level.
+
+
 
 \end{document}
