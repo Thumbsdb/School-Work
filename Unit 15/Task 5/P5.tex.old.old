@@ -50,13 +50,17 @@ Output devices
 	\item GPS
 	\item Headphones
 \end{enumerate}
-The \underline{selection} aviable for our games is when you open up the game 
+\underline{sequence} the sequence in the game 
+\underline{selection} the selection 
 \underline{iteration} the prototype is going to use iteration to make the game more to make the prototype more quickly and meet our clients requirements. iteration is the process by which a video game is repeatedly proposed, prototypes, play tested and reevaluated prior to working product release.
 \underline{subroutines} is a collection of public static methods that makes it easier to manage conditional events and routines. 
 \underline{conditions} in our game we have many if statements and conditions for example when your die, you loss your life and the health bar is set to 0. Another condition is when the player enter the hit box of the trap 5 kunai will spawn in 5 directions and 
 \underline{counting} in our game we be using the counting to count how the score for our player.
 \underline{totalling} in our game is the scoreboard and this done by keeping an integer that increase every time the player gets an item. 
 In recent years, \underline{data structures} have shifted towards a data-oriented design that prioritizes high-performance computing. This approach is more attuned to CPU cache utilization and optimizes memory efficiency to fully leverage the capabilities of modern CPUs.
+\underline{file handling} we don't 
+\underline{maintainable code}
+\underline{libraries} 
 
 
 
@@ -90,7 +94,7 @@ Black box testing involves testing a system with no prior knowledge of its inter
 
 Advantages of Black Box Testing
 
-The tester does not need to have more functional knowledge or programming skills to implement the Black Box Testing.jjjjjjjjjjj
+The tester does not need to have more functional knowledge or programming skills to implement the Black Box Testing.
 It is efficient for implementing the tests in the larger system.
 Tests are executed from the user’s or client’s point of view.
 Test cases are easily reproducible.
@@ -106,33 +110,6 @@ Some programs in the application are not tested.
 It does not reveal the errors in the control structure.
 Working with a large sample space of inputs can be exhaustive and consumes a lot of time.
 
-
-\begin{enumerate}
-	\item Moving
-	\item Player spawn
-	\item Falling player
-	\item 
-\end{enumerate}
-
-\begin{center}
-	\begin{tabular}{|m{1em}|m{1em}|m{1em}|m{1em}|m{1em}|m{1em}|m{1em}|}
-	\hline
-		# & Test Case & Steps & Expected Result & Actual Result5 & P/F & Verified  \\
-	\hline
-		1 & When Players enters game and the charater spawns & Open Unreal. Open folder whn game is asaved. Press play in top toolbar. Play level a few times to ensure main character can be controller & There is one character that can jump and move forward and backwards. & There is one character that can jump and move forward and backwards & *insert image* \\
-	\hline
-		2 & Jump animation applied when player jumps or falls off platform & Press spacebar while playing game or use arrow keys to navigate player off edge of platform & 4 & 5 & 6 \\
-	\hline
-		3 & Runing Animation apllied when player moves left or right & Press left or right arrow key while playing game or & Move right pog & p & *image insert* \\
-	\hline
-		4 & Health pickup  & 3 & 4 & 5 & 6 \\
-	\hline
-		5 & Level changed & 3 & 4 & 5 & 6 \\
-	\hline
-		6 & Score Increase & 3 & 4 & 5 & 6 \\
-	\hline
-\end{tabular}
-\end{center}
 
 \section{white box}
 White box testing takes advantage of extensive knowledge of an application’s internals to develop highly-targeted test cases. Examples of tests that might be performed during white box testing include
