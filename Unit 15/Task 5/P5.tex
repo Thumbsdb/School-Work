@@ -17,13 +17,14 @@
  left=20mm,
  top=20mm,
  }
+ \usepackage{array}
 
 \title{Unit 15 M2}
 \author{Chris}
 \date{}
 
 \begin{document}
-
+ 
 Build \& test a prototype – P5
 You are required to understand different ways that a prototype can be produced using bespoke
 software for game development.
@@ -50,7 +51,7 @@ Output devices
 	\item GPS
 	\item Headphones
 \end{enumerate}
-The \underline{selection} aviable for our games is when you open up the game 
+The \underline{selection} available for our games is when you open up the game 
 \underline{iteration} the prototype is going to use iteration to make the game more to make the prototype more quickly and meet our clients requirements. iteration is the process by which a video game is repeatedly proposed, prototypes, play tested and reevaluated prior to working product release.
 \underline{subroutines} is a collection of public static methods that makes it easier to manage conditional events and routines. 
 \underline{conditions} in our game we have many if statements and conditions for example when your die, you loss your life and the health bar is set to 0. Another condition is when the player enter the hit box of the trap 5 kunai will spawn in 5 directions and 
@@ -115,11 +116,11 @@ Working with a large sample space of inputs can be exhaustive and consumes a lot
 \end{enumerate}
 
 \begin{center}
-	\begin{tabular}{|m{1em}|m{1em}|m{1em}|m{1em}|m{1em}|m{1em}|m{1em}|}
+	\begin{tabular}{ | m{1em} | m{1em}| m{1em} | m{1em} | m{1em} | m{1em} | m{1em} | }
 	\hline
-		# & Test Case & Steps & Expected Result & Actual Result5 & P/F & Verified  \\
+		\# & Test Case & Steps & Expected Result & Actual Result5 & P/F & Verified  \\
 	\hline
-		1 & When Players enters game and the charater spawns & Open Unreal. Open folder whn game is asaved. Press play in top toolbar. Play level a few times to ensure main character can be controller & There is one character that can jump and move forward and backwards. & There is one character that can jump and move forward and backwards & *insert image* \\
+		1 & When Players enters game and the character spawns & Open Unreal. Open folder whn game is saved. Press play in top toolbar. Play level a few times to ensure main character can be controller & There is one character that can jump and move forward and backwards. & There is one character that can jump and move forward and backwards & *insert image* \\
 	\hline
 		2 & Jump animation applied when player jumps or falls off platform & Press spacebar while playing game or use arrow keys to navigate player off edge of platform & 4 & 5 & 6 \\
 	\hline
@@ -135,7 +136,7 @@ Working with a large sample space of inputs can be exhaustive and consumes a lot
 \end{center}
 
 \section{white box}
-White box testing takes advantage of extensive knowledge of an application’s internals to develop highly-targeted test cases. Examples of tests that might be performed during white box testing include
+White box testing takes advantage of extensive knowledge of an application's internals to develop highly-targeted test cases. Examples of tests that might be performed during white box testing include
 
 \begin{enumerate}
 	\item Unit Testing
