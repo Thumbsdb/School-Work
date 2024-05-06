@@ -1,0 +1,98 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\usepackage[square,numbers]{natbib}
+\usepackage{titlesec}
+\usepackage{geometry}
+\geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=20mm,
+ top=20mm,
+}
+\graphicspath{{./images/}}
+
+\title{Unit 8 Project Methodologies}
+\author{Chris Hadden}
+\date{}
+\bibliographystyle{abbrvnat}
+
+\begin{document}
+
+\maketitle
+
+\section{(P2) Different Project Methodologies}
+\subsection{Waterfall}
+The waterfall method was first designed in 1970 by Winston W. Royce. The waterfall method is a very traditional approach to project management. The project will flow through a series of steps/phases, and each phase of the project life cycle must be completed before the next can begin \cite{waterfallref, royce}.
+
+\subsubsection{When Is It Appropriate to Use Waterfall?}
+The logical flow of waterfall makes it an appropriate option for short and predictable projects where the vision of the finished product is clear. It is best suited for teams that excel at planning and documentation.
+
+Stages of the Waterfall:
+\begin{itemize}
+    \item \textbf{Requirements:} During this first phase, you will collaborate with stakeholders to precisely define the project's needs and scope.
+    \item \textbf{Design:} In this important design phase, you will plan the final product's appearance and the steps your team must take to get there.
+    \item \textbf{Implementation:} This is the point at which all of your preparations are fulfilled. Programmers will write the actual code for software projects at this point.
+    \item \textbf{Verification:} Your team tests the product during verification to ensure it satisfies the specifications stated in the first stage.
+    \item \textbf{Maintenance:} Your team maintains the product after verification to ensure it continues to meet the requirements.
+\end{itemize}
+
+\subsection{Agile}
+The agile methodology approach is iterative. This means that you will be continuously improving a product by repeating steps as many times as necessary. The Agile Manifesto was created by a team of software development leaders as a way to adapt to rapidly changing technology.
+
+Stages of Agile:
+\begin{itemize}
+    \item \textbf{Individuals and Interactions:} Organizing a project around your agile team, as opposed to your tools, will improve their responsiveness and flexibility.
+    \item \textbf{Working Software:} In agile, the focus is more on functionality rather than creating robust documentation.
+    \item \textbf{Customer Collaboration:} Completing a project's final details from the very beginning maintains everyone's interest at each step.
+    \item \textbf{Responding to Change:} Agile encourages short iterations that allow for changes and improvements rather than causing more expense.
+\end{itemize}
+
+\subsection{Scrum}
+Scrum is a lightweight agile framework designed for self-organizing teams to help them develop more complex projects. The framework includes a set of roles and meetings centered on the values of commitment, courage, focus, openness, and respect.
+
+Roles and Practices of Scrum:
+\begin{itemize}
+    \item \textbf{Sprint:} A short development cycle, usually one month or less, during which a team creates and releases a usable product increment.
+    \item \textbf{Scrum Master:} The team leader responsible for coaching the team.
+    \item \textbf{Daily Scrum:} A 15-minute stand-up meeting held each day.
+    \item \textbf{Product Backlog:} A prioritized list of work still to be done on the product.
+    \item \textbf{Product Owner:} The person responsible for getting the most value out of the product by managing the product backlog.
+    \item \textbf{Development Team:} The roles responsible for the development of the project.
+    \item \textbf{Sprint Review:} An informal session where the development team presents their finished iterations to the stakeholders for feedback.
+\end{itemize}
+
+\subsection{PRINCE2}
+PRINCE2 stands for Projects in Controlled Environments. PRINCE2 is a process-based project management methodology used to answer specific questions in product development \cite{purple}. These are:
+\begin{enumerate}
+    \item What are we trying to achieve?
+    \item When is it time to start?
+    \item What do we need to do?
+    \item Do we need help?
+    \item How long will the project take?
+    \item What is the cost?
+\end{enumerate}
+
+The PRINCE2 method is used extensively by the British government and has also been applied to projects in a wide variety of industries worldwide. PRINCE2 is designed to be scalable to fit various projects.
+
+\section{(M2) Compare the Features and Benefits of Different Project Methodologies}
+
+\subsection{The Difference Between Waterfall and Agile}
+Waterfall and agile represent two different approaches to completing tasks or projects. Agile is an iterative process technique that integrates a collaborative cycle of work \cite{diffs}. Although activities are often completed in a more linear fashion, waterfall is a sequential approach that can also be collaborative.
+
+Your project will go through several cycles during its lifespan if the agile methodology is followed. The work item is approved, denied, or reviewed after going through the development phase and receiving input. If so, carry out and finish the task. If not, document the situation, make any necessary adjustments, monitor the backlog, prioritize tasks, and move on to the next task or sprint.
+
+The waterfall technique makes it easier to move tasks through the steps of identifying requirements, designing the implementation, implementing the work item, verifying the implementation, performing quality assurance, and finally maintaining the feature.
+
+Depending on your preferences and the specifics of each project, you will need to choose the appropriate technique. Some projects call for a more sequential strategy, while others call for a more iterative one.
+
+\subsection{The Difference Between Scrum and PRINCE2}
+The key difference between PRINCE2 and Scrum is that the former is a project management methodology, whereas Scrum is an agile development approach used by teams \cite{diffscrum}.
+
+Scrum enables teams to work together collaboratively with the customer. This is done by defining and prioritizing requirements, developing, testing, and providing feedback in a continuous and repetitive cycle of iterations. Scrum gives guidance to team members on how this can be done effectively.
+
+PRINCE2 is a methodology that enables an organization to better control its projects. It provides guidance to the project stakeholders on how to ensure the project is managed effectively. The questions it helps these stakeholders answer are "Why should we do it (the project)?" and "Are the benefits worth the costs and risks of doing the project?"
+
+\bibliography{bibliography}
+
+\end{document}
