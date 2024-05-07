@@ -1,0 +1,160 @@
+\documentclass{article}
+
+% Language setting
+% Replace `english' with e.g. `spanish' to change the document language
+
+
+% Set page size and margins
+% Replace `letterpaper' with `a4paper' for UK/EU standard size
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=20mm,
+ top=20mm,
+ }
+%Packages
+%Coloums
+
+%\usepackage{tabularx}
+%\usepackage{amsmath}
+%\usepackage{graphicx}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\usepackage{titlesec}
+
+\title{Project Methodologies}
+\author{Chris Hadden}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+\break
+
+\section{(P4)Project plan for the identified project }
+
+\subsection{resource plan}
+The staffing requirements for this game will be minimal, given its nature as a 2D platformer; we anticipate needing no more than 10 staff members. Our team will consist of one project manager, one creative lead, three developers, and five testers. The reason for having a high number of testers relative to developers is to ensure the game operates smoothly and is user-friendly for our target audience, as more testers will help identify and resolve any weaknesses more effectively. The project manager will be essential for keeping the project on schedule and ensuring it meets our client's standards, while the creative lead will ensure that the team adheres to the design specifications provided by our clients.
+
+\subsection{financial plan}
+This approach not only ensures financial prudence but also allows us to deliver the game to the market more rapidly, enhancing our competitive edge. By leveraging these strategies, we aim to deliver a high-quality gaming experience while maintaining fiscal responsibility.
+
+The general costs are expected to consist of
+\begin{enumerate}
+    \item 3 developers \$120000
+    \item 5 play testers \$150000
+    \item 1 creative lead \$70000
+    \item 1 project lead \$80000
+    \item Game hosting \$5000
+\end{enumerate}
+
+\subsection{quality plan}
+Quality control measures will be streamlined to minimize development time. The developers themselves will oversee these processes as all the testing will be shifted left, meaning that all builds of the game will be done with CI/CD and that the testing of the game will be automated in the build pipeline. QA testers will also over see these tests to ensure quality, and they will also operate a play testers.
+Every test will be tied back to an original requirement so it will be possible to track quality.
+
+
+\subsection{schedule plan}
+The schedule for our game is going to short so we can get the game out for them. We are going to do this by keeping everything simple and concise.
+It is expected that development will be done in an iterative manner, usually two week sprints. At the end of every two weeks a working prototype will be seen by the customer and over it is expected that development will take no more than three to six months
+The main milestones are
+\begin{enumerate}
+    \item Sprint 0 - Pre development. Initiation and Planning phase is finished
+    \item Sprint 1 - A CI/CD build is operational
+    \item Sprint 2 - A rudimentary 2d platformer exists
+    \item Sprint 3 - Basic level 1 is created
+    \item Sprint 4 - Initial graphic elements added, e.g. Ninja, food
+    \item Sprint 5 - All objects in game added
+    \item Sprint 6 - Level 2 finished
+    \item Sprint 7 - Music and sound effects added 
+    \item Sprint 8 - Other levels finished
+\end{enumerate}
+
+
+\subsection{risk plan}
+There is minimal risk associated with this game, as it is considered low-risk. Risk management will be straightforward, as we plan to maintain ongoing communication with the client to ensure their needs are met. Additionally, we have received a specific list from the client detailing the elements they want included in the game.
+Ensuring that the game being developed is what the customer wants is paramount importance. As development of a game is a complex and effortful experience we are going to need to know that hat we are developing is what the customer wants, and that it fits in with their corporate culture. To that end we will have customer reviews at the end of every sprint, except the first one as that will be a bootstrapping sprint. 
+We will also start with a clear set of requirements that the  customer can refer to when we are demoing the games. This means we have a clear understanding of what is expected and the sprint demos also allows the customer to change the requirement in a clear, audit-able and actionable manner.
+A spending cap should be agreed in the contract before development starts. This is because game development is expensive and we want to make sure that we do not go over budget. It also restricts the amount of feature creep a customer can bring in.
+
+The UI development should occur alongside collaboration with an accessibility tester to make sure that it is accessible and has a modern appearance for all users. As the game can be played on multiple devices, it must undergo testing across all supported platforms to verify the smoothness of both the game and the user experience. As social media platforms demote posts with links in them it will be necessary to have funding for social media advertising is necessary to increase visibility for our game links. This will also serves as additional promotion for the brand. This will be on the customer to provide.
+
+\subsection{acceptance plan}
+An acceptance plan will be what we want to be in the game and these will be
+\begin{enumerate}
+    \item having unique levels
+    \item promote our clients foods 
+    \item engaging content and levels
+    \item moderately difficult levels
+    \item all branding is clear
+    \item the game works on all devices
+    \item the game is culturally sensitive
+\end{enumerate}
+
+
+\section{(M2)A phase review }
+
+\subsection{Initiation phase report - 30th February 2021}
+Attendees
+
+Jin - Project Manager
+Marty - Brand Manager
+
+
+\subsubsection{Is the project on schedule and within budget}
+At the end of the invitation phase we have delivered our Project Initiation Document (PID) and from this we have defined that
+The stakeholders are our brand clients, our development staff and end customers
+The scope definition is that we are going to develop an online game that will be an endorsement of the brand being advertised. There will be a maximum of five levels and the game will be a 2d platformer.
+The purpose of this game development is as a part of an advertising promotion of the customers brand. The reason the customer wants a game is because online advertising is the by far the best way to advertise today, but people have advert fatigue and it is felt that an online game will be more fun and engaging.
+The objective is to create a game which will draw in people and also keep their brand front and centre to that they come away with a good feeling of the brand.
+The deliverables will just be the game itself, and the hosting. The advertising of the game is up to the client.
+Timescales are estimated to be three to six months.
+The structure will consist of developers, testers and project leads.
+
+\subsubsection{Have the deliverables been produced and approved}
+The initiation document has been reviewed with the client and has been approved at this meeting.
+
+
+\subsubsection{Have the risk been controlled and mitigated}
+The identified risk and their mitigations were as follows
+\begin{enumerate}
+    \item Amount of effort in developing a game : We hired the appropriate number of contractors for development and testing
+    \item Using a 3rd party developer may mean we lose control of the game : We hired contractors internally and kept control 
+    \item Customers may be put off be an online game : We hired QA testers with UX experience to make sure the game is easy to understand
+    \item Social media links being demote : If the customer advertises on social media they will need to take it upon themselves to pay for advertising there
+    \item The game may be inconsistent on different devices : We will test on all devices
+\end{enumerate}
+
+
+\subsubsection{Have issues been resolved}
+All issues as of now have been resolved. All known risks are mitigated and the project obligations are clear.
+
+
+\subsubsection{Is the project on track}
+As of now the project is on track. We already have a skeleton CI / CD build working.
+
+\subsubsection{Should the project continue to the execution phase}
+We see nothing so far that would stop us progressing on the planning phase.
+
+\subsubsection{What is the justification for the decisions made}
+In terms of the solutions that were presented we went with Solution 2. The reason being that Solution 1 which was to buy advertising, was not cost effective and could in fact be detrimental to the brand. Internet advertising can be very costly to get any results, and if an end user has an ad blocker installed then our money is wasted on them. There are also seen to be diminishing returns on the money spent on traditional adverts, which is confounded by people being annoyed at seeing too many adverts during normal surfing.
+Solution 3 was rejected, this was to hire a social media manger. It was seen as a solution with good potential, but it was felt that it would not have the desired impact and may become old and cliched with the end customer. Further to that the cost of hiring a full time social media manager was seen as prohibitive.
+That left Solution 2, the online game. While the initial outlay for the game was quite expensive, it was a one time cost. The advertising that would be done around the game would also advertise the brand at the same time, so you get a two for one synergy. The game it self would be engaging and people would come back to it to play it again, so there would be an ongoing engagement with a game that has our branding and demonstrates our ethos in a very direct manner. Also as traditional advertising is seen as annoying, a game is a lot more innovative and may be seen as lot more modern and attractive than a old banner advert.
+
+\subsubsection{What changes have been identified, how will these be implemented and what is the justification for them}
+So far the customer has asked that we make the game character skinnable and that an AI chat bot is added to allow a user to make orders of the items in the games.
+For the skinnable request was have agreed to build this in to the game as a part of the initial development.
+For the AI chat bot, that is a larger undertaking and we have agreed to investigate the effort and technology required and will scope it for a future release if they still want it at that point.
+
+\subsubsection{Project charter}
+As a part of the development phase the customer and ourselves have agreed on developing an open charter for our development. This states:
+\begin{enumerate}
+    \item All staff members should attend all meetings
+    \item All staff should keep their Jira story tickets in the correct state, and close them once development and testing is finished
+    \item Team members should provide support to each other, anyone who is struggling is a priority
+    \item Communicate any changes to your lead as soon as possible
+    \item Individual team members should not eat all the company supplied chocolate bars
+\end{enumerate}
+
+\break
+\section{Sources}
+\end{document}
